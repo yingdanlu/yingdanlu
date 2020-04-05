@@ -7,19 +7,19 @@ I love singing, band-performing, theater show, and traveling. Here are some high
 
 <p align="center">
   <img src="/assets/images/photo2.jpg" width="400"/>
-  <img src="photo3.jpg" width="400"/>
+  <img src="/assets/images/photo3.jpg" width="400"/>
   <br>
    (Performed at the 24th Tsinghua Annual Singing Competition, won the second place)
 </p>
 
 <p align="center">
-  <img src="photo5.jpg" width="600"/>
+  <img src="/assets/images/photo5.jpg" width="600"/>
 <br>
   (<a href="https://www.youtube.com/watch?v=chso3abnvLU">Band-performing</a> at the 2017 Stanford Lunar New Year Gala)
 </p>
 
 <p align="center">
-  <img src="photo4.jpg" width="600"/>
+  <img src="/assets/images/photo4.jpg" width="600"/>
   <br>
   (Acted in Feiyu 2019 Spring Production Showcase)
 </p>
