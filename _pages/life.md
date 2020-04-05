@@ -6,7 +6,7 @@ permalink: /life/
 I love singing, band-performing, theater show, and traveling. Here are some highlights of those.
 
 <p align="center">
-  <img src="photo2.jpg" width="400"/>
+  <img src="/assets/images/photo2.jpg" width="400"/>
   <img src="photo3.jpg" width="400"/>
   <br>
    (Performed at the 24th Tsinghua Annual Singing Competition, won the second place)
