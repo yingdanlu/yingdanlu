@@ -60,9 +60,10 @@ plugins:
 author:
   name   : "Yingdan Lu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate"
-  Department   : "Department of Communication"
-  institution  : "Stanford University"
+  bio    : "Ph.D. Candidate\ \n
+  
+  Department of Communication\ \n
+  Stanford University"
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
