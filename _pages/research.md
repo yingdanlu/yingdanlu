@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+permalink: /research/
+title: "Research"
 ---
 ## Publications
 Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2019). Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them. <i>Human-Computer Interaction</i>. 1(52). [(PDF)](/screenomics.pdf). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html)
