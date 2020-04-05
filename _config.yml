@@ -61,11 +61,12 @@ author:
   name   : "Yingdan Lu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. Candidate\ \n
+  
   Department of Communication \n
   Stanford University"
   links:
     - label: "CV"
-      icon: "fas fa-fw fa-link"
+      icon: "far fa-file-pdf"
       url: "/CV_Feb2020.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
