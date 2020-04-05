@@ -18,8 +18,8 @@ Moment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel
 
 "<b>Deterrence and Censorship,"</b> with Jennifer Pan
 
-## Selected Presentations
-Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i> (virtual panel tbd)
+## Selected Conference Presentations
+Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i> (virtual panel)
 
 Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic.
 
