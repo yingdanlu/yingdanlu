@@ -7,23 +7,20 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 Lu, Y. (2015). Social Media Technology and Female Emancipation in China: Case Study in Sina-Weibo, <i>Synergy: The Journal of Contemporary Asian Studies</i>, University of Toronto, 12(1). [(online access)](http://utsynergyjournal.org/2015/12/04/social-media-technology-and-female-emancipation-in-china-case-study-in-sina-weibo)
 
-## Ongoing Projects
+## Working Papers
 
-"<b>Homogenized and Localized: A Comparison ofMoment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel Muise, Jennifer Pan, and Byron Reeves (Stanford University), <i>Under Review
+"<b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity,"</b> with Jennifer Pan, <i>R&R
+* <b>Keywords</b>: Propaganda, clickbait, social media, quantification, China
+  
+"<b>Homogenized and Localized: A Comparison of
+Moment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel Muise, Jennifer Pan, and Byron Reeves (Stanford University), <i>R&R
 * <b>Keywords</b>: homogenization, localization, smartphone, session, attention, international
 
-"<b>Propaganda for Engagement: the Use of Clickbait in Chinese Government Propaganda,"</b> with Jennifer Pan, <i>Under Review
-* <b>Keywords</b>: Propaganda, clickbait, social media, quantification, China
-
-"<b>Detecting Censorship by Deep Learning from Chinese Screenshots,"</b> with Jennifer Pan
-
-"<b>Event De-duplication: Machine-coded Protest Events from Social Media,"</b> with Jennifer Pan and Han Zhang (Princeton University)
-
-"<b>Evolution of Government Environmental Policies: Evidence from Policy Documents,"</b> with Xiao Tang (Tsinghua University)
-
-"<b>International Political Knowledge Sharing on Social Media,"</b>
+"<b>Deterrence and Censorship,"</b> with Jennifer Pan
 
 ## Selected Presentations
+Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>, Gold Coast, Australia
+
 Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic.
 
 Lu, Y. (2017, November). National Identity Shift in Taiwan Through Media: Case Study of News Reports on Cross-Strait Tourism. Presented at <i>National Communication Association 2017 Annual Convention</i>, Dallas, TX.
@@ -31,3 +28,9 @@ Lu, Y. (2017, November). National Identity Shift in Taiwan Through Media: Case S
 Lu, Y., & Yu, X. (2016, November). Public Intellectuals Deliberation on Chinese Weibo: Case study of School-bus Safety Incident. Presented at <i>National Communication Association 2016 Annual Convention</i>, Philadelphia, PA.
 
 Lu, Y. (2016, June). Reimagining Civility from Public and Media: Agendas in Chinese Haze Governance. Presented at <i>Asian Studies on the Pacific Coast 2016 Conference</i>, California State University, Northridge, CA.
+
+## Invited Talks
+
+Data Science Lab, Stanford University (Feb, 2020)
+
+Conversation Series, United Nations University on Computing and Society, Macau (July, 2019)[(event news)](https://cs.unu.edu/events/archive/event/homogenized-and-localized.html#overview)
