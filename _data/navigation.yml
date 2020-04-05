@@ -5,5 +5,7 @@ main:
     url: /research/
   - title: "CV"
     url: /cv/
+  - title: "Life"
+    url: /life/
   - title: "Email"
     url: "mailto: yingdan@stanford.edu"
