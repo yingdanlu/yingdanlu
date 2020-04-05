@@ -6,4 +6,4 @@ main:
   - title: "Life"
     url: /life/
   - title: "Email"
-    url: "/email"
+    url: "mailto: yingdan@stanford.edu"
