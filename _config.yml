@@ -60,14 +60,17 @@ plugins:
 author:
   name   : "Yingdan Lu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate\ \n
-  
-  Department of Communication\ \n
+  bio    : "\ 
+  Ph.D. Candidate \
+  Department of Communication \
   Stanford University"
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
       url: "/CV_Feb2020.pdf"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yingdan@stanford.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/YingdanL_kk/"
@@ -80,6 +83,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yingdan@stanford.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/YingdanL_kk/"
