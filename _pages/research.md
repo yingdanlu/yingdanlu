@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 ## Publications
-Lu, Y., & Pan J. (2020). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. <i>Political Communication</i>. Forthcoming. [PDF](/Lu&Pan_capturing clicks.pdf), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT)
+Lu, Y., & Pan J. (2020). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. <i>Political Communication</i>. Forthcoming. ([PDF](/Lu&Pan_main.pdf), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
 
 Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2019). Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them. <i>Human-Computer Interaction</i>. 1(52). ([PDF](/screenomics.pdf). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html))
 
