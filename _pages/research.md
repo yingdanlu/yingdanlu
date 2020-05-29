@@ -19,9 +19,9 @@ Moment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel
 "<b>Fake News Detection: Combating Image Manipulation in Political News,"</b> funded by [The Program on Democracy and the Internet](https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/)
 
 ## Selected Conference Presentations
-Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i> [Panel video](https://player.vimeo.com/video/416684754)
+Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>. ([Panel video](https://player.vimeo.com/video/416684754))
 
-Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic. [Presentation file](/LMPR_finalppt.pptx)
+Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic. ([Presentation file](/LMPR_finalppt.pdf))
 
 Lu, Y. (2017, November). National Identity Shift in Taiwan Through Media: Case Study of News Reports on Cross-Strait Tourism. Presented at <i>National Communication Association 2017 Annual Convention</i>, Dallas, TX.
 
