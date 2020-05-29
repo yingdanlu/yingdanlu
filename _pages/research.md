@@ -3,20 +3,21 @@ permalink: /research/
 title: "Research"
 ---
 ## Publications
-Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2019). Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them. <i>Human-Computer Interaction</i>. 1(52). [(PDF)](/screenomics.pdf). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html)
+Lu, Y., & Pan J. (2020). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. <i>Political Communication</i>. Forthcoming. ([PDF](/Lu&Pan_capturing clicks.pdf), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
+
+Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2019). Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them. <i>Human-Computer Interaction</i>. 1(52). ([PDF](/screenomics.pdf). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html))
 
 Lu, Y. (2015). Social Media Technology and Female Emancipation in China: Case Study in Sina-Weibo, <i>Synergy: The Journal of Contemporary Asian Studies</i>, University of Toronto, 12(1). [(online access)](http://utsynergyjournal.org/2015/12/04/social-media-technology-and-female-emancipation-in-china-case-study-in-sina-weibo)
 
-## Working Papers
+## Working Papers / Selected Works in Progress
 
-"<b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity,"</b> with Jennifer Pan, <i>R&R
-* <b>Keywords</b>: Propaganda, clickbait, social media, quantification, China
-  
 "<b>Homogenized and Localized: A Comparison of
 Moment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel Muise, Jennifer Pan, and Byron Reeves (Stanford University), <i>R&R
 * <b>Keywords</b>: homogenization, localization, smartphone, session, attention, international
 
-"<b>Deterrence and Censorship,"</b> with Jennifer Pan
+"<b>Video as Propaganda: Applying Video Analysis to Understand Political Propaganda,"</b> with Jennifer Pan
+
+"<b>Fake News Detection: Combating Image Manipulation in Political News,"</b> funded by [The Program on Democracy and the Internet](https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/)
 
 ## Selected Conference Presentations
 Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i> (virtual panel)
