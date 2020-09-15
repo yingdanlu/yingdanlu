@@ -19,7 +19,7 @@ Moment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel
 "<b>Fake News Detection: Combating Image Manipulation in Political News,"</b> funded by [The Program on Democracy and the Internet](https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/)
 
 ## Selected Conference Presentations
-Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
+Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
 
 Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>. ([Panel video](https://player.vimeo.com/video/416684754))
 
