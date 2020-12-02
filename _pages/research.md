@@ -32,14 +32,14 @@ Lu, Y., & Yu, X. (2016, November). Public Intellectuals Deliberation on Chinese 
 Lu, Y. (2016, June). Reimagining Civility from Public and Media: Agendas in Chinese Haze Governance. Presented at <i>Asian Studies on the Pacific Coast 2016 Conference</i>, California State University, Northridge, CA.
 
 ## Invited Talks
-University of Wisconsin-Madison, <i>Social Media Analytics</i> (Nov 2020)
+University of Wisconsin-Madison, Social Media Analytics (Nov 2020)
 
-University of San Francisco, <i>Natural Language Processing</i> (Nov 2020)
+University of San Francisco, Natural Language Processing(Nov 2020)
 
-Tsinghua University, <i>Comparative Journalism Studies</i> (Nov 2020)
+Tsinghua University, Comparative Journalism Studies (Nov 2020)
   
-Stanford University, <i>Data Science Lab</i> (Feb 2020)
+Stanford University, Data Science Lab (Feb 2020)
 
-United Nations University on Computing and Society, <i>Conversation Series</i> (July 2019)[(event news)](https://cs.unu.edu/events/archive/event/homogenized-and-localized.html#overview)
+United Nations University on Computing and Society, Conversation Series (July 2019)[(event news)](https://cs.unu.edu/events/archive/event/homogenized-and-localized.html#overview)
 
-Tsinghua University, <i>Political Methodology Workshop</i> (Jan 2018)
+Tsinghua University, Political Methodology Workshop (Jan 2018)
