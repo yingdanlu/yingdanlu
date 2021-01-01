@@ -16,7 +16,7 @@ Moment-by-moment Changes in Smartphone Use in Diverse Contexts,"</b> with Daniel
 * <b>Keywords</b>: homogenization, localization, smartphone, session, attention, international
 
 
-"<b>Public Attitudes on Sina Weibo in the Early Days of COVID-19,"</b> with Jennifer Pan and Yiqing Xu (Stanford University), <i>Under Review</i>. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757135)
+"<b>Public Attitudes on Sina Weibo in the Early Days of COVID-19,"</b> with Jennifer Pan and Yiqing Xu (Stanford University), <i>Under Review</i>. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3757135))
 * <b>Abstract</b>: Previous research has argued that exogenous shocks such as natural disasters threaten government stability. When the novel coronavirus outbreak first emerged in China, some commentators predicted that public anger would threaten the Chinese regime. By analyzing over five million original posts from Sina Weibo between December 2019 and February 2020, we find that online criticism spiked when the Chinese government announced the Wuhan lockdown, when controversies around medical supplies surfaced, and when Dr. Li Wenliang died of the disease. However, we also observe nearly parallel bursts of support for the regime during the Wuhan lockdown and death of Dr. Li Wenliang. We find no evidence of large-scale censorship of criticism. Although we cannot rule out government efforts to artificially generate approval, the support we observe is likely, at least in part, organic. These results caution against over-simplification of online public opinion in authoritarian countries and highlight a need for more precise and systematic measurement of public opinion on social media.
 * <b>Keywords</b>: COVID-19, crisis, public opinion, government support, authoritarianism, text analysis, deep learning
 
@@ -39,7 +39,7 @@ Lu, Y., & Yu, X. (2016, November). Public Intellectuals Deliberation on Chinese 
 
 Lu, Y. (2016, June). Reimagining Civility from Public and Media: Agendas in Chinese Haze Governance. Presented at <i>Asian Studies on the Pacific Coast 2016 Conference</i>, California State University, Northridge, CA.
 
-## Invited Talks/Guest Lectures
+## Invited Talks / Guest Lectures
 University of Wisconsin-Madison, Social Media Analytics (Nov 2020)
 
 University of San Francisco, Natural Language Processing (Nov 2020)
