@@ -114,6 +114,7 @@ defaults:
       type: pages
     values:
       layout: single
+      class: wide
       author_profile: true
 
 # category_archive:
