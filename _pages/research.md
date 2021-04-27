@@ -28,6 +28,8 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 ## Selected Conference Presentations
 Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Scheduled in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
 
+Lu, Y. & Pan, J. (2021, June). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Scheduled at <i>18th Chinese Internet Research Conference<i>
+
 Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
 
 Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>. ([Panel video](https://player.vimeo.com/video/416684754))
