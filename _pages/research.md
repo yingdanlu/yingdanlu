@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: "Research"
 ---
 ## Publications
 <b>Lu, Y.</b>, Pan J., & Xu Y. (2021). <b>Public Sentiment on Chinese Social Media during the Emergence of COVID-19</b>. <i>Journal of Quantitative Description: Digital Media.</i>. 1, 2021, 1-47. ([DOI](https://doi.org/10.51685/jqd.2021.013), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIIQUG))
