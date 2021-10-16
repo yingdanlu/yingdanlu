@@ -1,5 +1,7 @@
 ---
 permalink: /life/
+layout: single
+title: "Life"
 ---
 
 I love singing, band-performing, theater show, and traveling. Here are some highlights of those.
