@@ -19,22 +19,34 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 
 ## Working Papers / Selected Works in Progress
-"<b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos,"</b> with Jennifer Pan (Stanford University), <i>Extended abstract accepted, full paper under review</i>. ([SSRN](https://ssrn.com/abstract=3794898))
+"<b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos,"</b> with Jennifer Pan (Stanford University), Revise and Resubmit, <i>Computational Communication Research</i>.
 
-"<b>Selectively Localized: Comparing Temporal and Visual Structure of Screen Interactions across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, <i>Under Review</i>
+"<b>Selectively Localized: Comparing Temporal and Visual Structure of Screen Interactions across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, Revise and Resubmit, <i>Mobile Media & Communication</i>
 
-"<b>Determinants of beliefs and behaviors toward misinformation,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng
+"<b>Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng
 
-"<b>Fake News Detection: Combating Image Manipulation in Political News,"</b> funded by [The Program on Democracy and the Internet](https://pacscenter.stanford.edu/research/program-on-democracy-and-the-internet/)
+"<b>Tale of Two Internets: How Information Flowsfrom the US to Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan
+
+"<b>Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok,"</b> with Cuihua Cindy Shen
+
+"<b>Platform Labor Meets Racial Capitalism: Mapping the Influencer Pay Gap,"</b> with Angèle Christin
 
 ## Selected Conference Presentations
 Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Scheduled in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
 
-Lu, Y. & Pan, J. (2021, June). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Scheduled at <i>18th Chinese Internet Research Conference<i>
+Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2021, September). Tale of Two Internets: How Information Flows from the US to Chinese Social Media. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
 
-Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
+Chen, A., Lu, Y., Chen, K., & Ng, A. (2021, September). Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
 
-Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. In panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>. ([Panel video](https://player.vimeo.com/video/416684754))
+Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media<i>
+  
+Lu, Y. & Pan, J. (2021, July). The Pervasive Presence of Chinese Government Content on Douyin TrendingVideos. Presented at <i>International Conference on Computational Social Science (IC2S2) 2021<i>
+
+Lu, Y. & Pan, J. (2021, June). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>18th Chinese Internet Research Conference<i>
+
+Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
+
+Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>. ([Panel video](https://player.vimeo.com/video/416684754))
 
 Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic. ([Presentation file](/LMPR_finalppt.pdf))
 
@@ -46,6 +58,8 @@ Lu, Y. (2016, June). Reimagining Civility from Public and Media: Agendas in Chin
 
 ## Invited Talks / Guest Lectures
 
+ICA Regional Hub Symposium, China (May 2021)
+  
 Stanford University, Data Science Lab (Feb 2020)(Feb 2021)
 
 Tsinghua University, China Computational Social Science Forum (Jan 2021)
