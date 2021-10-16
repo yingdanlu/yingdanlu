@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "About"
 ---
 
 Welcome to my home page! My name is Yingdan Lu; I'm currently a Ph.D. Candidate in the [Department of Communication at Stanford University](http://comm.stanford.edu), advised by Professor [Jennifer Pan](http://jenpan.com). 
