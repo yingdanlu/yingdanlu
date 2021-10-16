@@ -32,7 +32,7 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 "<b>Platform Labor Meets Racial Capitalism: Mapping the Influencer Pay Gap,"</b> with Angèle Christin
 
 ## Selected Conference Presentations
-Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Scheduled in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
+Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Presented in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
 
 Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2021, September). Tale of Two Internets: How Information Flows from the US to Chinese Social Media. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
 
