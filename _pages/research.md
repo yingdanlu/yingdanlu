@@ -40,9 +40,9 @@ Chen, A., Lu, Y., Chen, K., & Ng, A. (2021, September). Pandemic Nationalism: Ho
 
 Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media<i>
   
-Lu, Y. & Pan, J. (2021, July). The Pervasive Presence of Chinese Government Content on Douyin TrendingVideos. Presented at <i>International Conference on Computational Social Science (IC2S2) 2021<i>
-
-Lu, Y. & Pan, J. (2021, June). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>18th Chinese Internet Research Conference<i>
+Lu, Y. & Pan, J. (2021, August). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>Association for Education in Journalism and Mass Communication (AEJMC) 2021 Annual Conference<i>
+  
+Lu, Y. & Pan, J. (2021, July). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>International Conference on Computational Social Science (IC2S2) 2021<i>
 
 Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
 
