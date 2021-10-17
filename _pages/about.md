@@ -4,7 +4,7 @@ permalink: /about/
 
 Welcome to my home page! My name is Yingdan Lu; I'm currently a Ph.D. Candidate in the [Department of Communication at Stanford University](http://comm.stanford.edu), advised by Professor [Jennifer Pan](http://jenpan.com). 
 
-My research focuses on digital media, political communication, and online information manipulation, integrating large-scale data and computational methods into the pursuit of social scientific theory and analysis. My work has been published in peer-reviewed journals including <i>Political Communication</i>, <i>Human-Computer Interaction</i>, and <i>Journal of Quantitative Description: Digital Media</i>.
+My research focuses on digital media, political communication, and online information manipulation. I integrate large-scale data and computational methods into the pursuit of social scientific theory and analysis. My work has been published in peer-reviewed journals including <i>Political Communication</i>, <i>Human-Computer Interaction</i>, and <i>Journal of Quantitative Description: Digital Media</i>.
 
 My first research strand specializes in social media propaganda, media governance, and their effects on the public in authoritarian regimes: What roles do digital media play in authoritarian governance? How do authoritarian governments use information and communications technology for political propaganda and information control? How does the public opinion evolve in response to the unexpected crisis? Waht are the downstream effects of consuming governmental social medi content?
 
