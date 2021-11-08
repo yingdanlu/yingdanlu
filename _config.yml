@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: YINGDAN LU
-email: yingdan@stanford.edu
+email: yingdan [at] stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -67,10 +67,10 @@ author:
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/CV_Yingdan_Oct2021.pdf"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yingdan@stanford.edu"
+      url: "/CV_Lu_Nov2021.pdf"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:yingdan@stanford.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/YingdanL_kk/"
