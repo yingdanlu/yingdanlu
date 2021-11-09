@@ -23,13 +23,13 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 "<b>Selectively Localized: Comparing Temporal and Visual Structure of Screen Interactions across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, Revise and Resubmit, <i>Mobile Media & Communication</i>
 
-"<b>Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng
+"<b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng, Under review
 
-"<b>Tale of Two Internets: How Information Flowsfrom the US to Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan
+"<b>Information Flows Between Global and Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan, Under review
 
-"<b>Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok,"</b> with Cuihua Cindy Shen
+"<b>Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin),"</b> with Cuihua Cindy Shen
 
-"<b>Platform Labor Meets Racial Capitalism: Mapping the Influencer Pay Gap,"</b> with Angèle Christin
+"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin
 
 ## Selected Conference Presentations
 Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Presented in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
