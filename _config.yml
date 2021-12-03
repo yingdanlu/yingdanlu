@@ -63,11 +63,12 @@ author:
   bio    : "\ 
   Ph.D. Candidate \ \n
   Department of Communication \ \n
-  Stanford University"
+  Stanford University  \ \n
+  yingdan [at] stanford [dot] edu"
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/CV_Lu_Nov2021.pdf"
+      url: "/CV_Lu_Dec2021.pdf"
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
 #       url: "mailto:yingdan@stanford.edu"
@@ -83,15 +84,15 @@ author:
 
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yingdan@stanford.edu"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:yingdan@stanford.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/YingdanL_kk/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yingdanlu"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
