@@ -5,7 +5,7 @@ title: "COMputation Island"
 ---
 
 <p align="center">
-  <img src="/assets/images/jichuandao.jpg" width="600"/>
+  <img src="/assets/images/jichuandao.jpg" width="400"/>
 <br>
 </p>
 
