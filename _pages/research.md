@@ -6,6 +6,10 @@ title: "Research"
 
 
 ## Publications
+
+<b>Lu, Y.</b>, & Pan J. (2021). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. Forthcoming. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3794898))
+* <b>Abstract</b>: As audiences have moved to digital media, so too have authoritarian regimes. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese regime uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese regime. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.
+
 <b>Lu, Y.</b>, Pan J., & Xu Y. (2021). <b>Public Sentiment on Chinese Social Media during the Emergence of COVID-19</b>. <i>Journal of Quantitative Description: Digital Media.</i> 1, 2021, 1-47. ([DOI](https://doi.org/10.51685/jqd.2021.013), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIIQUG))
 * <b>Abstract</b>: When COVID-19 first emerged in China, there was speculation that the outbreak would trigger public anger and weaken the Chinese regime. By analyzing millions of social media posts from Sina Weibo made between December 2019 and February 2020, we describe the contours of public, online discussions pertaining to COVID-19 in China. We find that discussions of COVID-19 became widespread on January 20, 2020, consisting primarily of personal reflections, opinions, updates, and appeals. We find that the largest bursts of discussion, which contain simultaneous spikes of criticism and support targeting the Chinese government, coincide with the January 23 lockdown of Wuhan and the February 7 death of Dr. Li Wenliang. Criticisms are directed at the government for perceived lack of action, incompetence, and wrongdoing—in particular, censoring information relevant to public welfare. Support is directed at the government for aggressive action and positive outcomes. As the crisis unfolds, the same events are interpreted differently by different people, with those who criticize focusing on the government’s shortcomings and those who praise focusing on the government’s actions.
 
@@ -19,26 +23,26 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 
 ## Working Papers / Selected Works in Progress
-"<b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos,"</b> with Jennifer Pan (Stanford University), Revise and Resubmit, <i>Computational Communication Research</i>.
-
 "<b>Selectively Localized: Comparing Temporal and Visual Structure of Screen Interactions across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, Revise and Resubmit, <i>Mobile Media & Communication</i>
 
 "<b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng, Under review
 
 "<b>Information Flows Between Global and Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan, Under review
 
+"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Extended abstract under review
+
 "<b>Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin),"</b> with Cuihua Cindy Shen
 
-"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin
+
 
 ## Selected Conference Presentations
 Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Presented in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
+  
+Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media<i>
 
 Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2021, September). Tale of Two Internets: How Information Flows from the US to Chinese Social Media. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
 
 Chen, A., Lu, Y., Chen, K., & Ng, A. (2021, September). Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
-
-Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media<i>
   
 Lu, Y. & Pan, J. (2021, August). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>Association for Education in Journalism and Mass Communication (AEJMC) 2021 Annual Conference<i>
   
@@ -57,6 +61,8 @@ Lu, Y., & Yu, X. (2016, November). Public Intellectuals Deliberation on Chinese 
 Lu, Y. (2016, June). Reimagining Civility from Public and Media: Agendas in Chinese Haze Governance. Presented at <i>Asian Studies on the Pacific Coast 2016 Conference</i>, California State University, Northridge, CA.
 
 ## Invited Talks / Guest Lectures
+  
+Stanford University, Center for Work Technology and Organization (Dec 2021)
 
 ICA Regional Hub Symposium, China (May 2021)
   
