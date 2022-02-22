@@ -26,8 +26,6 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 
 ## Working Papers / Selected Works in Progress
-"<b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, Revise and Resubmit, <i>Mobile Media & Communication</i>
-
 "<b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng, Revise and Resubmit, <i>The International Journal of Press & Politics</i>
 
 "<b>Information Flows Between Global and Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan, Revise and Resubmit, <i>The International Journal of Press & Politics</i>
