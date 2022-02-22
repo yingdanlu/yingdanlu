@@ -6,6 +6,9 @@ title: "Research"
 
 
 ## Publications
+Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments</b>. <i>Mobile Media & Communication</i>. Forthcoming. ([Preprint](https://journals.sagepub.com/doi/full/10.1177/20501579221080333#_i32))
+* <b>Abstract</b>: This study demonstrates how localization and homogenization can co-occur in different aspects of smartphone usage. Smartphones afford individualization of media behavior: users can begin, end, or switch between countless tasks anytime, but this individualization is shaped by shared environments such that smartphone usage may be similar among those who share such environments but contain differences, or localization, across environments or regions. Yet for all users, smartphone screen interactions are bounded and guided by nearly identical smartphone interfaces, suggesting that smartphone usage may be similar or homogenized across all individuals regardless of environment. We study homogenization and localization by comparing the temporal, visual, and experiential composition of screen activity among individuals in three dissimilar media environments—the United States, China, and Myanmar—using one week of screenshot data captured passively every 5 s by the novel Screenomics framework. We find that overall usage levels are consistently dissimilar across media environments, while metrics that depend more on moment-level decisions and user-interface design do not vary significantly across media environments. These results suggest that quantitative research on homogenization and localization should analyze behavior driven by user interfaces and by contextually determined parameters, respectively.
+
 
 <b>Lu, Y.</b>, & Pan J. (2021). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. Forthcoming. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3794898))
 * <b>Abstract</b>: As audiences have moved to digital media, so too have authoritarian regimes. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese regime uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese regime. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.
@@ -23,34 +26,45 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 
 ## Working Papers / Selected Works in Progress
-"<b>Selectively Localized: Comparing Temporal and Visual Structure of Screen Interactions across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, Revise and Resubmit, <i>Mobile Media & Communication</i>
+"<b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments,"</b> with Dan Muise, Jennifer Pan, and Byron Reeves, Revise and Resubmit, <i>Mobile Media & Communication</i>
 
-"<b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng, Under review
+"<b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China,"</b> with Anfan Chen, Kaiping Chen, and Aaron Ng, Revise and Resubmit, <i>The International Journal of Press & Politics</i>
 
-"<b>Information Flows Between Global and Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan, Under review
+"<b>Information Flows Between Global and Chinese Social Media,"</b> with Jack Schaefer, Kunwoo park, Jungseock Joo, and Jennifer Pan, Revise and Resubmit, <i>The International Journal of Press & Politics</i>
 
-"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Extended abstract under review
+"<b>Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin),"</b> with Cuihua Cindy Shen, Under review
 
-"<b>Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin),"</b> with Cuihua Cindy Shen
+"<b>Evolution of Propaganda in the Era of Digital Media,"</b> with Jennifer Pan, Yiqing Xu, and Xu Xu, Manuscript in preparation
 
+"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Manuscript in preparation
 
 
 ## Selected Conference Presentations
-Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Presented in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting<i>
+Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2022, May). Information Flows Between Global and Chinese Social Media. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
+
+Lu, Y. & Shen, C. (2022, May). Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin). Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
+
+Lu, Y., Liu, S., & Hancock, J. (2022, May). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
+
+Chen, K., Zou, S. & Lu, Y. (2022, May). Thanks to My Country’s Love!: Examining Nationalist Narratives in COVID vaccine-related Videos on Douyin Through Large-Scale Visual and Textual Analysis. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
+
+Chen, A., Lu, Y., Chen, K., & Ng, A. (2022, May). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
+
+Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Presented in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting</i>
   
-Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media<i>
+Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media</i>
 
-Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2021, September). Tale of Two Internets: How Information Flows from the US to Chinese Social Media. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
+Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2021, September). Tale of Two Internets: How Information Flows from the US to Chinese Social Media. Presented at <i>Virtual Conference of the International Journal of Press/Politics</i>
 
-Chen, A., Lu, Y., Chen, K., & Ng, A. (2021, September). Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China. Presented at <i>Virtual Conference of the International Journal of Press/Politics<i>
+Chen, A., Lu, Y., Chen, K., & Ng, A. (2021, September). Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China. Presented at <i>Virtual Conference of the International Journal of Press/Politics</i>
   
-Lu, Y. & Pan, J. (2021, August). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>Association for Education in Journalism and Mass Communication (AEJMC) 2021 Annual Conference<i>
+Lu, Y. & Pan, J. (2021, August). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>Association for Education in Journalism and Mass Communication (AEJMC) 2021 Annual Conference</i>
   
-Lu, Y. & Pan, J. (2021, July). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>International Conference on Computational Social Science (IC2S2) 2021<i>
+Lu, Y. & Pan, J. (2021, July). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>International Conference on Computational Social Science (IC2S2) 2021</i>
 
-Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting<i>.
+Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting</i>.
 
-Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference<i>. ([Panel video](https://player.vimeo.com/video/416684754))
+Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference</i>. ([Panel video](https://player.vimeo.com/video/416684754))
 
 Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic. ([Presentation file](/LMPR_finalppt.pdf))
 
