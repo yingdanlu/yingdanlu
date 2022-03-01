@@ -32,6 +32,8 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 "<b>Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin),"</b> with Cuihua Cindy Shen, Under review
 
+"<b>Toward an Evidence-Driven Understanding of China Digital Trace Research and Quality Criteria in Chinese Communication Research,"</b> with Kaiping Chen and Yiming Wang, Under review
+
 "<b>Evolution of Propaganda in the Era of Digital Media,"</b> with Jennifer Pan, Yiqing Xu, and Xu Xu, Manuscript in preparation
 
 "<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Manuscript in preparation
