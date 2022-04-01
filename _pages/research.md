@@ -40,6 +40,10 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 
 ## Invited Talks / Guest Lectures
+
+Chinese Politics Research in Progress (Apr 2022)
+
+University of Wisconsin-Madison, Social Media Analytics (Mar 2022)
   
 Stanford University, Center for Work Technology and Organization (Dec 2021)
 
