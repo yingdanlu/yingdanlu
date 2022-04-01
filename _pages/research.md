@@ -39,41 +39,6 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 "<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Manuscript in preparation
 
 
-## Selected Conference Presentations
-Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2022, May). Information Flows Between Global and Chinese Social Media. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
-
-Lu, Y. & Shen, C. (2022, May). Unpacking multimodal fact-checking: Features and engagement of fact-checking videos on Chinese TikTok (Douyin). Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
-
-Lu, Y., Liu, S., & Hancock, J. (2022, May). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
-
-Chen, K., Zou, S. & Lu, Y. (2022, May). Thanks to My Country’s Love!: Examining Nationalist Narratives in COVID vaccine-related Videos on Douyin Through Large-Scale Visual and Textual Analysis. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
-
-Chen, A., Lu, Y., Chen, K., & Ng, A. (2022, May). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. Scheduled at <i>International Communication Association’s (ICA) 72nd Annual Conference</i>, Paris, France
-
-Lu, Y., Pan, J. & Xu, Y. (2021, September). Public Sentiment on Chinese Social Media during the Emergence of COVID-19. Presented in “Chinese Politics Mini-Conference” at <i>American Political Science Association Annual Meeting</i>
-  
-Lu, Y. & Shen, C. (2021, September). Unpacking multimodal fact-checking: features and engagement of fact-checking videos on Chinese TikTok. Presented at <i>The 3rd Multidisciplinary International Symposium on Disinformation in Open Online Media</i>
-
-Lu, Y., Schaefer, J., Joo, J., Park, K. & Pan, J. (2021, September). Tale of Two Internets: How Information Flows from the US to Chinese Social Media. Presented at <i>Virtual Conference of the International Journal of Press/Politics</i>
-
-Chen, A., Lu, Y., Chen, K., & Ng, A. (2021, September). Pandemic Nationalism: How Exposure to Government Social Media Affects People's Belief in COVID-19 Conspiracy Theories in China. Presented at <i>Virtual Conference of the International Journal of Press/Politics</i>
-  
-Lu, Y. & Pan, J. (2021, August). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>Association for Education in Journalism and Mass Communication (AEJMC) 2021 Annual Conference</i>
-  
-Lu, Y. & Pan, J. (2021, July). The Pervasive Presence of Chinese Government Content on Douyin Trending Videos. Presented at <i>International Conference on Computational Social Science (IC2S2) 2021</i>
-
-Lu, Y. & Pan, J. (2020, September). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in "Chinese Politics Mini-Conference" at <i>American Political Science Association Annual Meeting</i>.
-
-Lu, Y. & Pan, J. (2020, May). Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity. Presented in panel "Propaganda in the computational age: disinformation and beyond" at <i>International Communication Association’s 70th Annual Conference</i>. ([Panel video](https://player.vimeo.com/video/416684754))
-
-Lu, Y., Muise D., Pan, J., & Reeves, B. (2018, May). Micro-Level Natural Interaction with Information Systems: An International Screenshot Comparison. Presented at <i>International Communication Association’s 68th Annual Conference</i>, Prague, Czech Republic. ([Presentation file](/LMPR_finalppt.pdf))
-
-Lu, Y. (2017, November). National Identity Shift in Taiwan Through Media: Case Study of News Reports on Cross-Strait Tourism. Presented at <i>National Communication Association 2017 Annual Convention</i>, Dallas, TX.
-
-Lu, Y., & Yu, X. (2016, November). Public Intellectuals Deliberation on Chinese Weibo: Case study of School-bus Safety Incident. Presented at <i>National Communication Association 2016 Annual Convention</i>, Philadelphia, PA.
-
-Lu, Y. (2016, June). Reimagining Civility from Public and Media: Agendas in Chinese Haze Governance. Presented at <i>Asian Studies on the Pacific Coast 2016 Conference</i>, California State University, Northridge, CA.
-
 ## Invited Talks / Guest Lectures
   
 Stanford University, Center for Work Technology and Organization (Dec 2021)
