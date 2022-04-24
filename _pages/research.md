@@ -6,7 +6,7 @@ title: "Research"
 
 
 ## Publications
-Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments</b>. <i>Mobile Media & Communication</i>. Forthcoming. ([Preprint](https://journals.sagepub.com/doi/full/10.1177/20501579221080333#_i32))
+Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments</b>. <i>Mobile Media & Communication</i>. Forthcoming. ([DOI](https://journals.sagepub.com/doi/full/10.1177/20501579221080333#_i32))
 
 <img align="right" src="/Fig3.png" width = 500pt height = 250pt>
 
