@@ -15,7 +15,7 @@ This study demonstrates how localization and homogenization can co-occur in diff
 
 <b>Lu, Y.</b>, & Pan J. (2022). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. Forthcoming. ([Preprint](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.LU?crawler=true), [Replication](https://github.com/yingdanlu/Douyin_CCR))
 
-<img align="right" src="/content_ccr.png" width = 600pt height = 300pt> 
+<img align="right" src="/content_ccr.png" width = 500pt height = 250pt> 
 
 As audiences have moved to digital media, so too have authoritarian regimes. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese regime uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese regime. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.
 
@@ -49,9 +49,10 @@ Digital experiences capture an increasingly large part of life, making them a pr
 
 "<b>Toward an Evidence-Driven Understanding of China Digital Trace Research and Quality Criteria in Chinese Communication Research,"</b> with Kaiping Chen and Yiming Wang, Under review
 
+"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Under review
+
 "<b>Evolution of Propaganda in the Era of Digital Media,"</b> with Jennifer Pan, Yiqing Xu, and Xu Xu, Manuscript in preparation
 
-"<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Manuscript in preparation
 
 
 ## Invited Talks / Guest Lectures
