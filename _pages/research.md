@@ -51,7 +51,7 @@ Digital experiences capture an increasingly large part of life, making them a pr
 
 "<b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism,"</b> with Angèle Christin, Under review
 
-"<b>Evolution of Propaganda in the Era of Digital Media,"</b> with Jennifer Pan, Yiqing Xu, and Xu Xu, Manuscript in preparation
+"<b>The Evolution of Propaganda in the Digital Age,"</b> with Jennifer Pan, Yiqing Xu, and Xu Xu, Manuscript in preparation
 
 
 
