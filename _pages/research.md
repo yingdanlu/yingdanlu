@@ -6,7 +6,7 @@ title: "Research"
 
 
 ## Publications
-<b>Lu, Y.</b>, & Pan J. (2022). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. Forthcoming. ([DOI](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.LU), [Replication](https://github.com/yingdanlu/Douyin_CCR))
+<b>Lu, Y.</b>, & Pan J. (2022). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. 4(1). 68-97. ([DOI](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.LU), [Replication](https://github.com/yingdanlu/Douyin_CCR))
 
 <img align="right" src="/content_ccr.png" width = 500pt height = 250pt> 
 
