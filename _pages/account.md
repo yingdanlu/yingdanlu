@@ -22,7 +22,10 @@ title: "COMputation Island"
 * The Application of Semantic Network Analysis in Network Text Analysis ([Article Link](https://bit.ly/3Dn5Guz))
 
 **Cutting-edge Research and Insights in Computational Communication**
-* Interview with Professor Jonathan Zhu: the Stage and Future of Computational Communication ([Article Link](https://bit.ly/3JTZZcB))
-* Interview with Professor Cuihua (Cindy) Shen: How to Do Meaningful Research in Computational Communication ([Article Link](https://bit.ly/3PphFxF))
 * A Reading Guide for Special Issue on Images as Data in <i>Computational Communication Research</i> ([Article Link](https://bit.ly/3K43mh5))
 * From World of Warcraft to Social Networks? Learning Pop Culture with Computational Communication ([Article Link](https://bit.ly/3w6luBl))
+
+**Insights from Computational Communication Experts**
+* Interview with Professor Jonathan Zhu: the Stage and Future of Computational Communication ([Article Link](https://bit.ly/3JTZZcB))
+* Interview with Professor Cuihua (Cindy) Shen: How to Do Meaningful Research in Computational Communication ([Article Link](https://bit.ly/3PphFxF))
+* Interview with Professor Lei Guo: When Classical Theory Meets Computational Method ([Article Link](https://bit.ly/3dssPod))
