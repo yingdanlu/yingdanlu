@@ -18,7 +18,7 @@ title: "COMputation Island"
 **Computational Methods and Digital Databases**:
 * Screenomics: a New Method in Computational Communication ([Article Link](https://bit.ly/3bUxgYs))
 * Introduction of Digital News Database ([Article Link](https://bit.ly/3w8vBp0))
-* Using Twitter Data for Research: Tools, Tips, and Other Things you Need to Know ([Article Link](https://bit.ly/3A5Nwy6))
+* Using Twitter Data for Research: Tools, Tips, and Other Things you Need to Know ([Article Link](https://bit.ly/3pssdS5))
 * The Application of Semantic Network Analysis in Network Text Analysis ([Article Link](https://bit.ly/3Dn5Guz))
 
 **Cutting-edge Research in Computational Communication**
