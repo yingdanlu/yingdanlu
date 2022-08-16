@@ -46,9 +46,9 @@ Digital experiences capture an increasingly large part of life, making them a pr
 
 <b>Lu, Y.</b>, & Shen, C. (Revise and Resubmit). Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin). _Social Media + Society_.
 
-Chen, K., <b>Lu, Y.</b>, & Wang, Y. (Revise and Resubmit). Toward an Evidence-Driven Understanding of Digital Trace Research on China. _Information, Communication \& Society_. [*Co-first author]
+Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (Revise and Resubmit). Toward an Evidence-Driven Understanding of Digital Trace Research on China. _Information, Communication \& Society_. [*co-first author]
 
-Chen, A., <b>Lu, Y.</b>, Chen, K., & Ng, A. (Revise and Resubmit). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. _The International Journal of Press/Politics_. [co-first author]
+Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (Revise and Resubmit). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. _The International Journal of Press/Politics_. [*co-first author]
 
 Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Platform Labor Meets Racial Capitalism. _New Media & Society_.
 
@@ -58,7 +58,7 @@ Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Pla
 
 <b>Lu, Y.</b>, Liu, S., & Hancock, J. Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok (Manuscript in preparation).
 
-Pan, J., <b>Lu, Y.</b>, & Chen, A. The Chilling Effect of Decreasing Anonymity on Chinese Social Media. (Manuscript in preparation). [co-first author]
+Pan, J., <b>Lu, Y.*</b>, & Chen, A. The Chilling Effect of Decreasing Anonymity on Chinese Social Media. (Manuscript in preparation). [*co-first author]
 
 
 ## Invited Talks / Guest Lectures
