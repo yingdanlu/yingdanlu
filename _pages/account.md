@@ -15,19 +15,19 @@ Since January 2021, COMputation Island team has created more than 60 original ar
 
 **Learning Computational Communication and Resources**: 
 * Learning Computational Communication: Ten Things You Need to Know ([Article Link](https://mp.weixin.qq.com/s/Vgt-4LFa8-YkOjJFUxK52A))
-* Book Recommendation for Computational Communication Research ([Article Link](https://bit.ly/3pjvnb5))
+* Recommended Readings for Computational Communication Research ([Article Link](https://bit.ly/3pjvnb5))
 
 **Computational Methods and Digital Databases**:
 * Screenomics: a New Method in Computational Communication ([Article Link](https://bit.ly/3bUxgYs))
-* Introduction of Digital News Database ([Article Link](https://bit.ly/3w8vBp0))
-* Using Twitter Data for Research: Tools, Costs, Skillsets and Lessons Learnt ([Article Link](https://bit.ly/3pssdS5))
-* The Application of Semantic Network Analysis in Network Text Analysis ([Article Link](https://bit.ly/3Dn5Guz))
+* Introduction to Digital News Databases ([Article Link](https://bit.ly/3w8vBp0))
+* Using Twitter Data for Research: Tools, Costs, Skillsets and Lessons Learned ([Article Link](https://bit.ly/3pssdS5))
+* Applying Semantic Network Analysis to Analyze Online Text Corpora ([Article Link](https://bit.ly/3Dn5Guz))
 
 **Cutting-edge Research in Computational Communication**
-* A Reading Guide for Special Issue on Images as Data in <i>Computational Communication Research</i> ([Article Link](https://bit.ly/3K43mh5))
-* From World of Warcraft to Social Networks? Learning Pop Culture with Computational Communication ([Article Link](https://bit.ly/3w6luBl))
+* Guided Readings for “Images as Data” Special Issue in <i>Computational Communication Research</i> ([Article Link](https://bit.ly/3K43mh5))
+* From World of Warcraft to Social Networks: Learning Pop Culture with Computational Communication ([Article Link](https://bit.ly/3w6luBl))
 
-**Insights from Leading Scholars**
-* Interview with Professor Jonathan Zhu: the Stage and Future of Computational Communication ([Article Link](https://bit.ly/3JTZZcB))
-* Interview with Professor Cuihua (Cindy) Shen: How to Do Meaningful Research in Computational Communication ([Article Link](https://bit.ly/3PphFxF))
-* Interview with Professor Lei Guo: When Classical Theory Meets Computational Method ([Article Link](https://bit.ly/3dssPod))
+**Interviews from Leading Scholars**
+* Professor Jonathan Zhu: the Past, Present and Future of Computational Communication ([Article Link](https://bit.ly/3JTZZcB))
+* Professor Cuihua (Cindy) Shen: Doing Meaningful Research in Computational Communication ([Article Link](https://bit.ly/3PphFxF))
+* Professor Lei Guo: Classical Theory Meets Computational Method ([Article Link](https://bit.ly/3dssPod))
