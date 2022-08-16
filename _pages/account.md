@@ -13,7 +13,7 @@ title: "COMputation Island"
 
 **Learning Computational Communication and Resources**: 
 * Learning Computational Communication: Ten Questions You Need to Know ([Article Link](https://mp.weixin.qq.com/s/Vgt-4LFa8-YkOjJFUxK52A))
-* Book Recommendation for Computational Communication Research ([Article Link](https://mp.weixin.qq.com/s/Vgt-4LFa8-YkOjJFUxK52A))
+* Book Recommendation for Computational Communication Research ([Article Link](https://bit.ly/3pjvnb5))
 
 **Computational Methods and Digital Databases**:
 * Screenomics: a New Method in Computational Communication ([Article Link](https://bit.ly/3bUxgYs))
