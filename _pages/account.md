@@ -9,9 +9,9 @@ title: "COMputation Island"
 <br>
 </p>
 
-**COMputation Island ("计传岛" in Chinese)** is a WeChat-based online platform for developing computational communication research (CCR) in China, founded by Yingdan Lu from Stanford University, co-founded with Yiyan Zhang from Boston University and Zening Duan from the University of Wisconsin-Madison. 
+**COMputation Island ("计传岛" in Chinese)** is a WeChat-based online platform for developing computational communication research (CCR) in China, founded by Yingdan Lu from Stanford University, and co-founded with Yiyan Zhang from Boston University and Zening Duan from the University of Wisconsin-Madison. 
 
-Since January 2021, COMputation Island team has created more than 60 original articles to share cutting-edge research, facilitate academic discussions, and promote resource exchanges to more than 10,000 Mandarin-speaking students and scholars in Asia, North America, Europe, and other regions, and the community is still growing. To build an influential community of young CCR scholars, COMputation Island invited prestigious CCR scholars to share their thoughts, experiences, and stories behind their CCR research and trajectories. Some spotlight articles (in Chinese) are listed below:
+Since January 2021, COMputation Island team has created more than 60 original articles to share cutting-edge research, facilitate academic discussions, and promote resource exchanges to more than 10,000 Mandarin-speaking students and scholars in Asia, North America, Europe, and other regions, and the community is still growing. To build an influential community of young CCR scholars, COMputation Island invites outstanding CCR scholars to share their insights on CCR research and career trajectories. Some spotlight articles (in Chinese) are listed below:
 
 **Learning Computational Communication and Resources**: 
 * Learning Computational Communication: Ten Things You Need to Know ([Article Link](https://mp.weixin.qq.com/s/Vgt-4LFa8-YkOjJFUxK52A))
