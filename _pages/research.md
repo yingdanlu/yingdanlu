@@ -60,7 +60,7 @@ Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Pla
 
 Pan, J., <b>Lu, Y.*</b>, & Chen, A. The Chilling Effect of Decreasing Anonymity on Chinese Social Media. (Manuscript in preparation). [*co-first author]
 
-
+<!-- 
 ## Invited Talks / Guest Lectures
 
 Chinese Politics Research in Progress (Apr 2022)
@@ -84,3 +84,4 @@ Tsinghua University, Comparative Journalism Studies (Nov 2020)
 United Nations University on Computing and Society, Conversation Series (July 2019)[(event news)](https://cs.unu.edu/events/archive/event/homogenized-and-localized.html#overview)
 
 Tsinghua University, Political Methodology Workshop (Jan 2018)
+ -->
