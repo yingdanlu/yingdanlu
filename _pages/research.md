@@ -46,7 +46,7 @@ Digital experiences capture an increasingly large part of life, making them a pr
 
 <b>Lu, Y.</b>, & Shen, C. (Revise and Resubmit). Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin). _Social Media + Society_.
 
-Chen, K., <b>Lu, Y.</b>, & Wang, Y. (Revise and Resubmit). Toward an Evidence-Driven Understanding of Digital Trace Research on China. _Information, Communication \& Society_. [Co-first author]
+Chen, K., <b>Lu, Y.</b>, & Wang, Y. (Revise and Resubmit). Toward an Evidence-Driven Understanding of Digital Trace Research on China. _Information, Communication \& Society_. [*Co-first author]
 
 Chen, A., <b>Lu, Y.</b>, Chen, K., & Ng, A. (Revise and Resubmit). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. _The International Journal of Press/Politics_. [co-first author]
 
