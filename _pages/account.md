@@ -24,7 +24,7 @@ Since January 2021, COMputation Island team has created more than 60 original ar
 * Applying Semantic Network Analysis to Analyze Online Text Corpora ([Article Link](https://bit.ly/3Dn5Guz))
 
 **Cutting-edge Research in Computational Social Science**
-* Guided Readings for “Computational Social Science” Special Issue in <i>Nature</i> ([Article Link](https://bit.ly/3K43mh5))
+* Guided Readings for “Computational Social Science” Special Issue in <i>Nature</i> ([Article Link](https://bit.ly/3Ccu1q6))
 * Guided Readings for “Images as Data” Special Issue in <i>Computational Communication Research</i> ([Article Link](https://bit.ly/3K43mh5))
 * From World of Warcraft to Social Networks: Learning Pop Culture with Computational Communication ([Article Link](https://bit.ly/3w6luBl))
 
