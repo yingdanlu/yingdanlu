@@ -5,7 +5,7 @@ title: "Research"
 ---
 
 
-## Publications
+## Peer-reviewed Publications
 <b>Lu, Y.</b>, Schaefer, J., Park, K., Joo, J., & Pan, J. (2022). <b>How Information Flows from the World to China</b>. <i>The International Journal of Press/Politics</i>. Online First in August 2022. ([DOI](https://journals.sagepub.com/doi/10.1177/19401612221117470), [Replication](https://doi.org/10.7910/DVN/7C7FEI))
 
 Government censorship—internet shutdowns, blockages, firewalls—impose significant barriers to the transnational flow of information despite the connective power of digital technologies. In this paper, we examine whether and how information flows across borders despite government censorship. We develop a semi-automated system that combines deep learning and human annotation to find co-occurring content across different social media platforms and languages. We use this system to detect co-occurring content between Twitter and Sina Weibo as Covid-19 spread globally, and we conduct in-depth investigations of co-occurring content to identify those that constitute an inflow of information from the global information ecosystem into China. We find that approximately one-fourth of content with relevance for China that gains widespread public attention on Twitter makes its way to Weibo. Unsurprisingly, Chinese state-controlled media and commercialized domestic media play a dominant role in facilitating these inflows of information. However, we find that Weibo users without traditional media or government affiliations are also an important mechanism for transmitting information into China. These results imply that while censorship combined with media control provide substantial leeway for the government to set the agenda, social media provides opportunities for non-institutional actors to influence the information environment. Methodologically, the system we develop offers a new approach for the quantitative analysis of cross-platform and cross-lingual communication.
@@ -42,7 +42,7 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 Digital experiences capture an increasingly large part of life, making them a preferred, if not required, method to describe and theorize about human behavior. Digital media also shape behavior by enabling people to switch between different content easily, and create unique threads of experiences that pass quickly through numerous information categories. Current methods of recording digital experiences provide only partial reconstructions of digital lives that weave – often within seconds – among multiple applications, locations, functions, and media. We describe an end-to-end system for capturing and analyzing the “screenome” of life in media, i.e., the record of individual experiences represented as a sequence of screens that people view and interact with over time. The system includes software that collects screenshots, extracts text and images, and allows searching of a screenshot database. We discuss how the system can be used to elaborate current theories about psychological processing of technology, and suggest new theoretical questions that are enabled by multiple timescale analyses. Capabilities of the system are highlighted with eight research examples that analyze screens from adults who have generated data within the system. We end with a discussion of future uses, limitations, theory, and privacy.
 
 
-## Working Papers / Selected Works in Progress
+## Under Review
 
 <b>Lu, Y.</b>, & Shen, C. (Revise and Resubmit). Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin). _Social Media + Society_.
 
@@ -56,11 +56,13 @@ Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Pla
 
 Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (Under Review). An Agenda for Studying Credibility Perceptions of Visual Misinformation. [∗co-first author]
 
+
+## Selected Working Papers
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation). The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
 
 <b>Lu, Y.</b>, Liu, S., & Hancock, J. (Manuscript in preparation). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok.
 
-<!-- Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Manuscript in preparation). The Chilling Effect of Decreasing Anonymity on Chinese Social Media. [*co-first author] -->
+Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Manuscript in preparation). The Chilling Effect of Decreasing Anonymity on Chinese Social Media. [*co-first author]
 
 <!-- 
 ## Invited Talks / Guest Lectures
