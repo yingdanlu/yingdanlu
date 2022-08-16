@@ -54,11 +54,11 @@ Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Pla
 
 <b>Lu, Y.</b>, & Peng, Y. (Extended abstract accepted, full paper under review). The Mobilizing Power of Visual Media across Cycles of Social Movements. _Political Communication_.
 
-<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y.  The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin (Manuscript in preparation).
+<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation) The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
 
-<b>Lu, Y.</b>, Liu, S., & Hancock, J. Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok (Manuscript in preparation).
+<b>Lu, Y.</b>, Liu, S., & Hancock, J. (Manuscript in preparation) Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok.
 
-Pan, J., <b>Lu, Y.*</b>, & Chen, A. The Chilling Effect of Decreasing Anonymity on Chinese Social Media. (Manuscript in preparation). [*co-first author]
+Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Manuscript in preparation) The Chilling Effect of Decreasing Anonymity on Chinese Social Media. [*co-first author]
 
 <!-- 
 ## Invited Talks / Guest Lectures
