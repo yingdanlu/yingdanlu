@@ -56,6 +56,8 @@ Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Pla
 
 Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (Under Review). An Agenda for Studying Credibility Perceptions of Visual Misinformation. [∗co-first author]
 
+Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Under Review). The Chilling Effect of Decreasing Anonymity on Chinese Social Media. [∗co-first author]
+
 
 ## Selected Working Papers
 <b>Lu, Y.</b> (Book project) Fandom, Propaganda and State Mobilization on Chinese Social Media.
@@ -63,8 +65,6 @@ Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (Under Review). An Agenda for Studying Cred
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation). The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
 
 <b>Lu, Y.</b>, Liu, S., & Hancock, J. (Manuscript in preparation). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok.
-
-Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Manuscript in preparation). The Chilling Effect of Decreasing Anonymity on Chinese Social Media. [∗co-first author]
 
 <!-- 
 ## Invited Talks / Guest Lectures
