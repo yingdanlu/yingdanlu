@@ -4,7 +4,6 @@ layout: single
 title: "Research"
 ---
 
-
 ## Peer-reviewed Publications
 <b>Lu, Y.</b>, Schaefer, J., Park, K., Joo, J., & Pan, J. (2022). <b>How Information Flows from the World to China</b>. <i>The International Journal of Press/Politics</i>. Online First in August 2022. ([DOI](https://journals.sagepub.com/doi/10.1177/19401612221117470), [Replication](https://doi.org/10.7910/DVN/7C7FEI))
 
