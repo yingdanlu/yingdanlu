@@ -5,11 +5,9 @@ title: "Teaching"
 ---
 
 ## Teaching Assistant
-**COMM 1: Introduction to Communication** (Undergraduate lecture)<br />
-Instructor: Prof. Jeff Hancock
+**COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)<br />
 
-**COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar)<br />
-Instructor: Dr. Anna Gibson
+**COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)<br />
 
 
 ## Guest Lectures
