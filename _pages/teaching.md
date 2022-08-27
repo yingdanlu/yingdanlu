@@ -11,7 +11,8 @@ title: "Teaching"
 
 
 ## Guest Lectures
-**Video-as-Data in Computational Social Science**, Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
+**Video-as-Data in Computational Social Science**
+Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
 
 Social Media Analytics, University of Wisconsin–Madison
 
