@@ -5,14 +5,16 @@ title: "Teaching"
 ---
 
 ## Teaching Assistant
-COMM 1: Introduction to Communication (Undergraduate Level)
+COMM 1: Introduction to Communication (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
 
-Instructor: Prof. Jeff Hancock
+COMM 106/206: Communication Research Methods (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)
 
-Independently taught weekly tutorial sections on communication theories and social media research
-
-COMM 106/206: Communication Research Methods (Undergraduate)
-Instructor: Dr. Anna Gibson
 
 ## Guest Lectures
 Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
+
+Social Media Analytics, University of Wisconsin–Madison
+
+Natural Language Processing, University of San Francisco
+
+Comparative Journalism Studies, Tsinghua University
