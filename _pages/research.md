@@ -64,29 +64,3 @@ Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Under Review). The Chilling Effect of Decre
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation). The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
 
 <b>Lu, Y.</b>, Liu, S., & Hancock, J. (Manuscript in preparation). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok.
-
-<!-- 
-## Invited Talks / Guest Lectures
-
-Chinese Politics Research in Progress (Apr 2022)
-
-University of Wisconsin-Madison, Social Media Analytics (Mar 2022)
-  
-Stanford University, Center for Work Technology and Organization (Dec 2021)
-
-ICA Regional Hub Symposium, China (May 2021)
-  
-Stanford University, Data Science Lab (Feb 2020)(Feb 2021)
-
-Tsinghua University, China Computational Social Science Forum (Jan 2021)
-
-University of Wisconsin-Madison, Social Media Analytics (Nov 2020)
-
-University of San Francisco, Natural Language Processing (Nov 2020)
-
-Tsinghua University, Comparative Journalism Studies (Nov 2020)
-
-United Nations University on Computing and Society, Conversation Series (July 2019)[(event news)](https://cs.unu.edu/events/archive/event/homogenized-and-localized.html#overview)
-
-Tsinghua University, Political Methodology Workshop (Jan 2018)
- -->
