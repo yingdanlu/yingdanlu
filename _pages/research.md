@@ -59,7 +59,7 @@ Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Under Review). The Chilling Effect of Decre
 
 
 ## Selected Working Papers
-<b>Lu, Y.</b> (Book project) Fandom, Propaganda, and State Mobilization on Chinese Social Media.
+<b>Lu, Y.</b> (Book project). Fandom, Propaganda, and State Mobilization on Chinese Social Media.
 
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation). The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
 
