@@ -13,6 +13,10 @@ Training students to be lifelong active learners and supporting their success in
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)<br />
 - Independently taught weekly tutorial sections on communication theories and social media research
 - Managed online quizzes, exams, and grading on Canvas
+- Selected students' feedbacks:
+_"Yingdan was great: very knowledgeable and wants her students to be successful in the class."
+“Yingdan's willingness to model the section based off our feedback was really great. She really tried to make each section the most helpful for us as possible."_
+
 
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)<br />
 - Independently taught weekly tutorial sections on R programming and quantitative data analysis
