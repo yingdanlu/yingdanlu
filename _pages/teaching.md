@@ -38,7 +38,7 @@ Comparative Journalism Studies, Tsinghua University
 **R programming for beginners** <br />
 R is a functional open-source programming language widely used in statistical analysis and visualization. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. Similar to any programming language, learning R may not be easy at the beginning, but once you get into it, you can explore more powerful things with R. If you are interested in learning R programming, these resources could be helpful:
 
-- [Getting started with R/RStudio](/teaching/GetStartedWithR.pdf)): I wrote this instruction for my students in the course _Communication Methods_ at Stanford University. In this instruction, you will find more details on how to install R and Rstudio, and some useful resources to help you familiarize with R.
+- [Getting started with R/RStudio](/teaching/GetStartedWithR.pdf): I wrote this instruction for my students in the course _Communication Methods_ at Stanford University. In this instruction, you will find more details on how to install R and Rstudio, and some useful resources to help you familiarize with R.
 - [Swirl](https://swirlstats.com/students.html): Swirl is an interactive R package that helps beginners to learn R programming and data science through a fun way. You can install swirl package in your RStudio by following the instructions. By Swirl, you can work through short lessons to start writing R codes.
 
 **Video-as-Data Research Methods** <br /> 
