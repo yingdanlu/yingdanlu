@@ -33,16 +33,19 @@ Comparative Journalism Studies, Tsinghua University
 
 ## Resources
 
-**Quantitative Research Methods**
-
 **R programming for beginners** <br />
 R is a functional open-source programming language widely used in statistical analysis and visualization. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. Similar to any programming language, learning R may not be easy at the beginning, but once you get into it, you can explore more powerful things with R. If you are interested in learning R programming, these resources could be helpful:
 
 - [Getting started with R/RStudio](/teaching/GetStartedWithR.pdf): I wrote this instruction for my students in the course _Communication Methods_ at Stanford University. In this instruction, you will find more details on how to install R and Rstudio, and some useful resources to help you familiarize with R.
+- [R practice code for beginners](/teaching/rbeginners/rbeginners.R): I prepared this R code for my students in the course _Communication Methods_ at Stanford University. If you are a beginner to R, you can run this R code in the R console (bottom left quadrant in R Studio) and learn from setting work directory to creating simple plots.
 - [Swirl](https://swirlstats.com/students.html): Swirl is an interactive R package that helps beginners to learn R programming and data science through a fun way. You can install swirl package in your RStudio by following the instructions. By Swirl, you can work through short lessons to start writing R codes.
 
 **Video-as-Data Research Methods** <br /> 
 As video-based social media platforms such as YouTube and TikTok have become a hallmark of today’s social media landscape, the abundant video data and the outperforming persuasive effects of video than text have prompted me to quantitatively analyze large-scale video data. If you are interested in video-as-data research methods, these resources could be helpful:
 
 - [My lecture slides](/teaching/video_as_data.pdf) for "Video-as-Data in Computational Social Science" <br /> 
-- [Replication files](https://github.com/yingdanlu/Douyin_CCR) for "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos" (academic paper published in _Computational Communication Research_; repo includes code for computing video brightness, video color complexity, faces, warm color dominance, and cold color dominance)
+- [Replication files](https://github.com/yingdanlu/Douyin_CCR) for "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos" (academic paper published in _Computational Communication Research_): This repo includes code for computing video brightness, video color complexity, faces, warm color dominance, and cold color dominance.
+
+
+**Other resources for quantitative social science research** <br /> 
+
