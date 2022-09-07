@@ -47,5 +47,14 @@ As video-based social media platforms such as YouTube and TikTok have become a h
 - [Replication files](https://github.com/yingdanlu/Douyin_CCR) for "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos" (academic paper published in _Computational Communication Research_): This repo includes code for computing video brightness, video color complexity, faces, warm color dominance, and cold color dominance.
 
 
-**Other resources for quantitative social science research** <br /> 
+**Other resources for quantitative/computational social science research** <br /> 
+Books I would suggest:
+- [Quantitative social science: An introduction](https://press.princeton.edu/books/hardcover/9780691167039/quantitative-social-science): a must-read for every quantitative social scientist.
+- [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/hardcover/9780691207544/text-as-data): a great textbook/guide for people who want to learn computational text analysis.
+- [Images as Data for Social Science Research: An Introduction to Convolutional Neural Nets for Image Classification](https://www.cambridge.org/core/elements/images-as-data-for-social-science-research/0376EE8A7A21F5B47FC4EC24DF07EFE9): a perfect guide for image-as-data research methods.
+
+Papers I would suggest:
+· Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabasi, A. L., Brewer, D., ... & Jebara, T. (2009).  Social science. _Computational social science_. Science (New York, NY), 323(5915), 721-723.
+· Lazer, D. M., Pentland, A., Watts, D. J., Aral, S., Athey, S., Contractor, N., ... & Nelson, A. (2020). Computational social science: Obstacles and opportunities. _Science_, 369(6507), 1060-1062.
+· Shah, D. V., Cappella, J. N., & Neuman, W. R. (2015). Big data, digital media, and computational social science: Possibilities and perils. _The ANNALS of the American Academy of Political and Social Science_, 659(1), 6-13.
 
