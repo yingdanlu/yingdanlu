@@ -18,7 +18,7 @@ _"Yingdan was great: very knowledgeable and wants her students to be successful 
 _“Yingdan's willingness to model the section based off our feedback was really great. She really tried to make each section the most helpful for us as possible."_
 
 
-**COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)<br />
+**COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)
 - Independently taught weekly tutorial sections on R programming and quantitative data analysis
 - Mentored student class projects and managed grading on Canvas
 - Selected students' feedbacks:<br />
