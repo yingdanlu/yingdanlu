@@ -31,7 +31,7 @@ Natural Language Processing, University of San Francisco
 Comparative Journalism Studies, Tsinghua University
 
 
-## Resources
+## Teaching Resources
 
 **R Programming for Beginners** <br />
 R is a functional open-source programming language widely used in statistical analysis and visualization. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. Similar to any programming language, learning R may not be easy at the beginning, but once you get into it, you can explore more powerful things with R. If you are interested in learning R programming, these resources could be helpful:
