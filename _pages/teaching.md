@@ -53,3 +53,5 @@ Here are some books that I would recommend for people who want to learn quantita
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/hardcover/9780691207544/text-as-data): a great textbook/guide for people who want to learn computational text analysis.
 - [Images as Data for Social Science Research: An Introduction to Convolutional Neural Nets for Image Classification](https://www.cambridge.org/core/elements/images-as-data-for-social-science-research/0376EE8A7A21F5B47FC4EC24DF07EFE9): a perfect guide for image-as-data research methods.
 - [Research Handbook on Visual Politics](https://www.e-elgar.com/shop/usd/research-handbook-on-visual-politics-9781800376922.html): a new research handbook to be published in January 2023. I wrote a book chapter with Yilang Peng on how to use computational visual analysis to study political communication.
+
+
