@@ -47,7 +47,7 @@ As video-based social media platforms such as YouTube and TikTok have become a h
 - [Replication files](https://github.com/yingdanlu/Douyin_CCR) for "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos" (academic paper published in _Computational Communication Research_): This repo includes code for computing video brightness, video color complexity, faces, warm color dominance, and cold color dominance.
 
 
-**Textbooks That I Will Recommend** <br />
+**Textbooks that I Will Recommend** <br />
 Here are some books that I would recommend for people who want to learn quantitative social science research and computational social science research:
 - [Quantitative social science: An introduction](https://press.princeton.edu/books/hardcover/9780691167039/quantitative-social-science): a must-read for every quantitative social scientist.
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/hardcover/9780691207544/text-as-data): a great textbook/guide for people who want to learn computational text analysis.
