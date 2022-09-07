@@ -11,14 +11,16 @@ title: "Teaching"
 - Managed online quizzes, exams, and grading on Canvas
 - Selected students' feedbacks:<br />
 _"Yingdan was great: very knowledgeable and wants her students to be successful in the class."_<br />
-_“Yingdan's willingness to model the section based off our feedback was really great. She really tried to make each section the most helpful for us as possible."_
+_“Yingdan's willingness to model the section based off our feedback was really great. She really tried to make each section the most helpful for us as possible."_<br />
+_“Yingdan was always available and willing to answer questions. She always tried her best to make sure we understood the material.” _
 
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)
 - Independently taught weekly tutorial sections on R programming and quantitative data analysis
 - Mentored student class projects and managed grading on Canvas
 - Selected students' feedbacks:<br />
 _“I think [of Yingdan] as a person to lean on when I didn't know what I was doing."_<br />
-_“Yingdan would reply to emails relatively promptly, and this immediacy of feedback/faster access to info helped my learning process."_
+_“Yingdan would reply to emails relatively promptly, and this immediacy of feedback/faster access to info helped my learning process."_<br />
+_"The R sessions were really helpful, redevelop some of the fundamentals that I had lost over the years."_
 
 
 ## Guest Lecture Experiences
