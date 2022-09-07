@@ -28,6 +28,6 @@ Comparative Journalism Studies, Tsinghua University
 
 
 ## Resources
-**Getting started with R/RStudio**<br />
+**Getting started with R/RStudio**<br /> ([Link](teaching/GetStartedWithR.pdf)
 R is a functional open-source programming language widely used in statistical analysis and visualization. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. Similar to any programming language, learning R may not be easy at the beginning, but once you get into it, you can explore more powerful things with R. In this instruction, you will find more details on how to install R and Rstudio, and some useful resources to help you familiarize with R.
 
