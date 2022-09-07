@@ -5,6 +5,7 @@
 
 #### You can 'run' this R code in the R console (bottom left quadrant in R Studio). Do it step-by-step.
 #### Lines with hashtags (like this) are just 'comments', i.e., it's just plain English for you to read. R knows that!
+#### Make sure you have also downloaded the sample data (turnout.csv and afghan.csv) and put them in the same folder with this code
 ################################################################################################
 
 ## This script will walk you through the following:
