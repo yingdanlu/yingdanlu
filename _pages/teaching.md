@@ -10,7 +10,7 @@ Training students to be lifelong active learners and supporting their success in
 
 ## Teaching Assistant Experiences
 
-**COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)<br />
+**COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
 - Independently taught weekly tutorial sections on communication theories and social media research
 - Managed online quizzes, exams, and grading on Canvas
 - Selected students' feedbacks:<br />
