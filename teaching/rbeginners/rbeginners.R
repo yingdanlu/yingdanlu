@@ -1,5 +1,5 @@
-###### R programming for beginners ###### 
-###### Created by Yingdan Lu for Comm 106/206 section ###### 
+###### R practice code for beginners ###### 
+###### Created by Yingdan Lu ###### 
 ###### A special thanks to Anna Gibson (Instructor) and Mufan Luo (my fellow TA) ###### 
 ################################################################################################
 
