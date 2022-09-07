@@ -8,13 +8,14 @@ title: "Teaching"
 Training students to be lifelong active learners and supporting their success in the field of social science is a cornerstone of my academic vocation. To achieve this goal, I have assisted in teaching two courses, delivered five guest lectures, and participated in various mentorship activities. Inspired by my own research, learning, teaching, and mentorship experiences, I have developed my teaching philosophy that incorporates three methodologies: **1) engaging students with interactive learning; 2) creating peer-collaboration environments; and 3) connecting student learning to real-world impacts.**
 
 
-## Teaching Assistant
+## Teaching Experience
+
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)<br />
 
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)<br />
 
 
-## Guest Lectures
+## Guest Lecture Experience
 **Video-as-Data in Computational Social Science**<br />
 Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
 
