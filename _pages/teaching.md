@@ -39,4 +39,4 @@ R is a functional open-source programming language widely used in statistical an
 As video-based social media platforms such as YouTube and TikTok have become a hallmark of today’s social media landscape, the abundant video data and the outperforming persuasive effects of video than text have prompted me to quantitatively analyze large-scale video data. If you are interested in video-as-data research methods, these resources could be helpful:
 
 - [My lecture slides](/teaching/video_as_data.pdf) for "Video-as-Data in Computational Social Science"  <br /> 
-- [Replication files](https://github.com/yingdanlu/Douyin_CCR) for "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos" (including code for computing video brightness, video color complexity, faces, warm color dominance, and cold color dominance)
+- [Replication files](https://github.com/yingdanlu/Douyin_CCR) for "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos" (paper published in _Computational Communication Research_; repo includes code for computing video brightness, video color complexity, faces, warm color dominance, and cold color dominance)
