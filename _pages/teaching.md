@@ -11,8 +11,12 @@ Training students to be lifelong active learners and supporting their success in
 ## Teaching Assistant Experiences
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)<br />
+- Independently taught weekly tutorial sections on communication theories and social media research
+- Managed online quizzes, exams, and grading on Canvas
 
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)<br />
+- Independently taught weekly tutorial sections on R programming and quantitative data analysis
+- Mentored student class projects and managed grading on Canvas
 
 
 ## Guest Lecture Experiences
