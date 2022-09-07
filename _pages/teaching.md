@@ -4,10 +4,6 @@ layout: single
 title: "Teaching"
 ---
 
-## Teaching Philosophy
-Training students to be lifelong active learners and supporting their success in the field of social science is a cornerstone of my academic vocation. To achieve this goal, I have assisted in teaching two courses, delivered five guest lectures, and participated in various mentorship activities. Inspired by my own research, learning, teaching, and mentorship experiences, I have developed my teaching philosophy that incorporates three methodologies: **1) engaging students with interactive learning; 2) creating peer-collaboration environments; and 3) connecting student learning to real-world impacts.**
-
-
 ## Teaching Assistant Experiences
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
@@ -17,13 +13,13 @@ Training students to be lifelong active learners and supporting their success in
 _"Yingdan was great: very knowledgeable and wants her students to be successful in the class."_<br />
 _“Yingdan's willingness to model the section based off our feedback was really great. She really tried to make each section the most helpful for us as possible."_
 
-
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)
 - Independently taught weekly tutorial sections on R programming and quantitative data analysis
 - Mentored student class projects and managed grading on Canvas
 - Selected students' feedbacks:<br />
 _“I think [of Yingdan] as a person to lean on when I didn't know what I was doing."_<br />
 _“Yingdan would reply to emails relatively promptly, and this immediacy of feedback/faster access to info helped my learning process."_
+
 
 ## Guest Lecture Experiences
 **Video-as-Data in Computational Social Science**<br />
