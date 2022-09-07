@@ -48,7 +48,7 @@ As video-based social media platforms such as YouTube and TikTok have become a h
 
 
 **Other resources for quantitative/computational social science research** <br /> 
-Books I would suggest:
+Books I would suggest: <br /> 
 - [Quantitative social science: An introduction](https://press.princeton.edu/books/hardcover/9780691167039/quantitative-social-science): a must-read for every quantitative social scientist.
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/hardcover/9780691207544/text-as-data): a great textbook/guide for people who want to learn computational text analysis.
 - [Images as Data for Social Science Research: An Introduction to Convolutional Neural Nets for Image Classification](https://www.cambridge.org/core/elements/images-as-data-for-social-science-research/0376EE8A7A21F5B47FC4EC24DF07EFE9): a perfect guide for image-as-data research methods.
