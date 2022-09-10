@@ -4,7 +4,7 @@ layout: single
 title: "Teaching"
 ---
 
-## Teaching Assistant Experiences
+## Teaching Assistant Experience
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
 - Independently taught weekly tutorial sections on communication theories and social media research
@@ -23,7 +23,7 @@ _“Yingdan would reply to emails relatively promptly, and this immediacy of fee
 _"The R sessions were really helpful, redevelop some of the fundamentals that I had lost over the years."_
 
 
-## Guest Lecture Experiences
+## Guest Lecture Experience
 **Video-as-Data in Computational Social Science**<br />
 Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
 
