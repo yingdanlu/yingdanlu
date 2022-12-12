@@ -43,19 +43,17 @@ Digital experiences capture an increasingly large part of life, making them a pr
 
 ## Under Review
 
-<b>Lu, Y.</b>, & Shen, C. (Revise and Resubmit). Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin). _Social Media + Society_.
+<b>Lu, Y.</b>, & Shen, C. (Forthcoming). Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin). _Social Media + Society_.
 
-Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (Revise and Resubmit). Toward an Evidence-Driven Understanding of Digital Trace Research on China. _Information, Communication \& Society_. [∗co-first author]
-
-Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (Revise and Resubmit). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. _The International Journal of Press/Politics_. [∗co-first author]
+Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (Accepted). Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China. _The International Journal of Press/Politics_. [∗co-first author]
 
 Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Platform Labor Meets Racial Capitalism. _New Media & Society_.
 
-<b>Lu, Y.</b>, & Peng, Y. (Extended abstract accepted, full paper under review). The Mobilizing Power of Visual Media across Cycles of Social Movements. _Political Communication_.
+<b>Lu, Y.</b>, & Peng, Y. (Revise and Resubmit). The Mobilizing Power of Visual Media across Cycles of Social Movements. _Political Communication_.
+
+Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Extended abstract accepted). Narratives of the Ukraine War on Chinese Social Media. [∗co-first author]
 
 Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (Under Review). An Agenda for Studying Credibility Perceptions of Visual Misinformation. [∗co-first author]
-
-Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Under Review). The Chilling Effect of Decreasing Anonymity on Chinese Social Media. [∗co-first author]
 
 
 ## Selected Working Papers
@@ -64,3 +62,5 @@ Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Under Review). The Chilling Effect of Decre
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation). The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
 
 <b>Lu, Y.</b>, Liu, S., & Hancock, J. (Manuscript in preparation). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok.
+
+Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (Manuscript in preparation). Toward an Evidence-Driven Understanding of Digital Trace Research on China. [∗co-first author]
