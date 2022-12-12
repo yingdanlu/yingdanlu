@@ -51,7 +51,7 @@ Christin, A., & <b>Lu, Y.</b> (Revise and Resubmit). The Influencer Pay Gap: Pla
 
 <b>Lu, Y.</b>, & Peng, Y. (Revise and Resubmit). The Mobilizing Power of Visual Media across Cycles of Social Movements. _Political Communication_.
 
-Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Extended abstract accepted). Narratives of the Ukraine War on Chinese Social Media. [∗co-first author]
+Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Extended abstract accepted). Narratives of the Ukraine War on Chinese Social Media. _Journal of Quantitative Description: Digital Media_. [∗co-first author]
 
 Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (Under Review). An Agenda for Studying Credibility Perceptions of Visual Misinformation. [∗co-first author]
 
