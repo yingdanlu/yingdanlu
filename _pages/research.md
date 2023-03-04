@@ -18,7 +18,7 @@ Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Us
 <b>Lu, Y.</b>, & Pan J. (2021). <b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity</b>. <i>Political Communication</i>. 38(1-2), 23-54. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
 
 
-### Multimodal Experiences on Digital Media and Effects
+### Digital Multimodal Experiences and Effects
 <b>Lu, Y.</b>, & Shen, C. (2023). <b>Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin)</b>. <i>Social Media + Society</i>. ([DOI](https://journals.sagepub.com/doi/10.1177/20563051221150406))
 
 Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (2023). An Agenda for Studying Credibility Perceptions of Visual Misinformation. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2023.2175398))
