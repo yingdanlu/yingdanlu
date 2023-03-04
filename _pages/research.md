@@ -21,7 +21,7 @@ Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Us
 ### Digital Multimodal Experiences and Effects
 <b>Lu, Y.</b>, & Shen, C. (2023). <b>Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin)</b>. <i>Social Media + Society</i>. ([DOI](https://journals.sagepub.com/doi/10.1177/20563051221150406))
 
-Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (2023). An Agenda for Studying Credibility Perceptions of Visual Misinformation. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2023.2175398))
+Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (2023). An Agenda for Studying Credibility Perceptions of Visual Misinformation. <i>Political Communication</i>. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2023.2175398))
 
 Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments</b>. <i>Mobile Media & Communication</i>. 10(3), 487–509. ([DOI](https://journals.sagepub.com/doi/full/10.1177/20501579221080333#_i32))
 
