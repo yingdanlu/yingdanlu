@@ -24,6 +24,10 @@ _"The R sessions were really helpful, redevelop some of the fundamentals that I 
 
 
 ## Guest Lecture Experience
+
+**Competing for Attention: How the Chinese Government Uses Social Media for Propaganda**<br />
+Persuasive Technologies, University of California, Davis
+
 **Video-as-Data in Computational Social Science**<br />
 Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
 
