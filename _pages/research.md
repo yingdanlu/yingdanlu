@@ -19,7 +19,7 @@ Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Us
 
 
 ### Digital Multimodal Experiences and Effects
-Christin, A., & <b>Lu, Y.</b> (2023). The Influencer Pay Gap: Platform Labor Meets Racial Capitalism. <i>New Media & Society</i>. ([DOI](https://doi.org/10.1177/14614448231164995))
+Christin, A., & <b>Lu, Y.</b> (2023). <b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism</b>. <i>New Media & Society</i>. ([DOI](https://doi.org/10.1177/14614448231164995))
 
 <b>Lu, Y.</b>, & Shen, C. (2023). <b>Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin)</b>. <i>Social Media + Society</i>. ([DOI](https://journals.sagepub.com/doi/10.1177/20563051221150406))
 
