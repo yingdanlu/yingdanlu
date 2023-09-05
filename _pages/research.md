@@ -32,6 +32,7 @@ Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A.
 
 
 ## Dissertation
-<b>Lu, Y.</b>. Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in
-China.
+<b>Lu, Y. Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in
+China.</b>
+
 Established research on authoritarian information control has extensively examined the top-down dissemination of political propaganda and its impact on public attitudes and behaviors. This research introduces a novel theory, <i>performative propaganda engagement</i>, which focuses on individuals who engage with state propaganda in a performative manner to benefit an individual or a group they align with, rather than genuinely endorsing or promoting propaganda. Through mixed methods research approaches, this research empirically investigates performative propaganda engagement within the realm of Chinese online celebrity fandom, a rising cultural force on Chinese social media. The findings reveal that celebrity fans in China actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. I find that celebrity fans performatively engage with state propaganda through three mechanisms — celebrity mobilization, direct state mobilization, and algorithmic visibility manipulation. By exploring the manifestations of performative propaganda engagement, this research contributes to a deeper understanding of the downstream effects of authoritarian information control, contemporary fandom culture in China, the metrics-driven nature of social media ecosystem, and authoritarian resilience in the digital age. 
