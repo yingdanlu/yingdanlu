@@ -30,22 +30,8 @@ Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized:
 Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2021). <b>Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them</b>. <i>Human-Computer Interaction</i>. 36(2), 150-201. ([DOI](https://www.tandfonline.com/doi/full/10.1080/07370024.2019.1578652). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html))
 
 
-## Under Review
-<b>Lu, Y.</b>, & Peng, Y. (Revise and Resubmit). The Mobilizing Power of Visual Media across Cycles of Social Movements. _Political Communication_.
 
-Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (Revise and Resubmit). Toward an Evidence-Driven Understanding of Digital Trace Research on China. _Chinese Journal of Communication_. [∗co-first author]
-
-Qian, S., Lu, Y.∗, Peng, Y., Shen, C. & Xu, H. (Extended Abstract Accepted, Full Manuscript Under Review). Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram. _Public Relations Review_.
-
-Pan, J., <b>Lu, Y.*</b>, & Chen, A. (Extended abstract accepted). Narratives of the Ukraine War on Chinese Social Media. _Journal of Quantitative Description: Digital Media_. [∗co-first author]
-
-
-## Selected Working Papers
-<b>Lu, Y.</b> (Book project). Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in
+## Dissertation
+<b>Lu, Y.</b>. Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in
 China.
-
-<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Manuscript in preparation). The Evolution of Propaganda in the Digital Age: Chinese Government Mobilization on Douyin.
-
-<b>Lu, Y.</b>, Liu, S., & Hancock, J. (Manuscript in preparation). Computational Approaches to Understanding Credibility in Video-Based Misinformation: An Analysis of Covid-19 Content on TikTok.
-
-
+Established research on authoritarian information control has extensively examined the top-down dissemination of political propaganda and its impact on public attitudes and behaviors. This research introduces a novel theory, <i>performative propaganda engagement</i>, which focuses on individuals who engage with state propaganda in a performative manner to benefit an individual or a group they align with, rather than genuinely endorsing or promoting propaganda. Through mixed methods research approaches, this research empirically investigates performative propaganda engagement within the realm of Chinese online celebrity fandom, a rising cultural force on Chinese social media. The findings reveal that celebrity fans in China actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. I find that celebrity fans performatively engage with state propaganda through three mechanisms — celebrity mobilization, direct state mobilization, and algorithmic visibility manipulation. By exploring the manifestations of performative propaganda engagement, this research contributes to a deeper understanding of the downstream effects of authoritarian information control, contemporary fandom culture in China, the metrics-driven nature of social media ecosystem, and authoritarian resilience in the digital age. 
