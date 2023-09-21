@@ -7,16 +7,12 @@ title: "Teaching"
 ## Teaching Assistant Experience
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
-- Independently taught weekly tutorial sections on communication theories and social media research
-- Managed online quizzes, exams, and grading on Canvas
 - Feedbacks from my students:<br />
 _"Yingdan was great: very knowledgeable and wants her students to be successful in the class."_<br />
 _"Yingdan's willingness to model the section based off our feedback was really great. She really tried to make each section the most helpful for us as possible."_<br />
 _"Yingdan was always available and willing to answer questions. She always tried her best to make sure we understood the material."_
 
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Instructor: Dr. Anna Gibson)
-- Independently taught weekly tutorial sections on R programming and quantitative data analysis
-- Mentored student class projects and managed grading on Canvas
 - Feedbacks from my students:<br />
 _“I think [of Yingdan] as a person to lean on when I didn't know what I was doing."_<br />
 _“Yingdan would reply to emails relatively promptly, and this immediacy of feedback/faster access to info helped my learning process."_<br />
@@ -25,23 +21,26 @@ _"The R sessions were really helpful, redevelop some of the fundamentals that I 
 
 ## Guest Lecture Experience
 
+**Rethinking User Engagement with Screens**<br />
+_Social Media Analytics_, University of Wisconsin–Madison
+
 **Competing for Attention: How the Chinese Government Uses Social Media for Propaganda**<br />
-Persuasive Technologies, University of California, Davis
+_Persuasive Technologies_, University of California, Davis
 
 **Video-as-Data in Computational Social Science**<br />
-Introduction to Computational Social Science, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
+_Introduction to Computational Social Science_, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
 
 **Rethinking Life on Screens: Measuring Smartphone Activities Through Screenomics**<br />
-Social Media Analytics, University of Wisconsin–Madison
+_Social Media Analytics_, University of Wisconsin–Madison
 
 **Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visibility**<br />
-Social Media Analytics, University of Wisconsin–Madison
+_Social Media Analytics_, University of Wisconsin–Madison
 
 **Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visibility**<br />
-Natural Language Processing, University of San Francisco
+_Natural Language Processing_, University of San Francisco
 
 **Image as Data: Automated Visual Analysis in Studying Digital Media**<br />
-Comparative Journalism Studies, Tsinghua University
+_Comparative Journalism Studies_, Tsinghua University
 
 
 ## Teaching Resources
