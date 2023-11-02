@@ -7,6 +7,8 @@ title: "Research"
 ## Peer-reviewed Publications
 
 ### Digital Media in Authoritarian Governance
+Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2023). Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens. Chinese Journal of Communication. Online First in October 2023. [*co-first author]([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
+
 Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China</b>. <i>The International Journal of Press/Politics</i>. [∗co-first author] ([DOI](https://journals.sagepub.com/doi/10.1177/19401612231153107))
 
 <b>Lu, Y.</b>, Schaefer, J., Park, K., Joo, J., & Pan, J. (2022). <b>How Information Flows from the World to China</b>. <i>The International Journal of Press/Politics</i>. Online First in August 2022. ([DOI](https://journals.sagepub.com/doi/10.1177/19401612221117470), [Replication](https://doi.org/10.7910/DVN/7C7FEI))
