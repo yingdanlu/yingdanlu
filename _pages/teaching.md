@@ -19,30 +19,6 @@ _“Yingdan would reply to emails relatively promptly, and this immediacy of fee
 _"The R sessions were really helpful, redevelop some of the fundamentals that I had lost over the years."_
 
 
-## Guest Lecture Experience
-
-**Rethinking User Engagement with Screens**<br />
-_Social Media Analytics_, University of Wisconsin–Madison
-
-**Competing for Attention: How the Chinese Government Uses Social Media for Propaganda**<br />
-_Persuasive Technologies_, University of California, Davis
-
-**Video-as-Data in Computational Social Science**<br />
-_Introduction to Computational Social Science_, 2022 Summer School in Applied Social Science Research Methods, NYU-Shanghai
-
-**Rethinking Life on Screens: Measuring Smartphone Activities Through Screenomics**<br />
-_Social Media Analytics_, University of Wisconsin–Madison
-
-**Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visibility**<br />
-_Social Media Analytics_, University of Wisconsin–Madison
-
-**Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visibility**<br />
-_Natural Language Processing_, University of San Francisco
-
-**Image as Data: Automated Visual Analysis in Studying Digital Media**<br />
-_Comparative Journalism Studies_, Tsinghua University
-
-
 ## Teaching Resources
 **R Programming for Beginners** <br />
 R is a functional open-source programming language widely used in statistical analysis and visualization. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. Similar to any programming language, learning R may not be easy at the beginning, but once you get into it, you can explore more powerful things with R. If you are interested in learning R programming, these resources could be helpful:
