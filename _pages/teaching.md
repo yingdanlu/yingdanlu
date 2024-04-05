@@ -4,6 +4,14 @@ layout: single
 title: "Teaching"
 ---
 
+## Current Teaching at Northwestern University
+**COMM_ST 395: Digital Propaganda and Repression**, Northwestern University
+- Undergraduate lecture
+
+**MTS 525: Computational Communication Research**, Northwestern University
+- Ph.D. seminar
+
+
 ## Teaching Assistant Experience
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
