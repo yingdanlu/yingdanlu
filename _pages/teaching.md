@@ -5,10 +5,10 @@ title: "Teaching"
 ---
 
 ## Current Teaching at Northwestern University
-**COMM_ST 395: Digital Propaganda and Repression**, Northwestern University
+**COMM_ST 395: Digital Propaganda and Repression**
 - Undergraduate lecture
 
-**MTS 525: Computational Communication Research**, Northwestern University
+**MTS 525: Computational Communication Research**
 - Ph.D. seminar
 
 
