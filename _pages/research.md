@@ -21,7 +21,9 @@ Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Us
 
 
 ### Digital Multimodal Experiences and Effects
-<b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 1-28. ([DOI](https://doi.org/10.1080/10584609.2024.2317951))
+<b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 1-28. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
+
+Qian, S., <b>Lu, Y.</b>, & Peng, Y., Shen, C. & Xu, H. (2024). <b>Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram</b>. <i>Public Relations Review</i>, Online First in March 2024. ([DOI](https://drive.google.com/file/d/1Km2gyqiDD7XEG5BycAbxIMvumh92HoNV/view))
 
 Christin, A., & <b>Lu, Y.</b> (2023). <b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism</b>. <i>New Media & Society</i>. ([DOI](https://doi.org/10.1177/14614448231164995))
 
