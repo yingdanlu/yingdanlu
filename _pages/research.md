@@ -7,6 +7,8 @@ title: "Research"
 ## Peer-reviewed Publications
 
 ### Digital Technologies in Authoritarian Governance
+Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. _Proceedings of the National Academy of Sciences_. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122))
+
 Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2023). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>. Online First in October 2023. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
 
 Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China</b>. <i>The International Journal of Press/Politics</i>. [∗co-first author] ([DOI](https://journals.sagepub.com/doi/10.1177/19401612231153107))
