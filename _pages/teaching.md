@@ -10,7 +10,7 @@ title: "Teaching"
 **MTS 525: Computational Communication Research** (Ph.D. seminar)
 
 
-## Teaching Assistant Experience
+## Previous Teaching
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Instructor: Prof. Jeff Hancock)
 
