@@ -7,9 +7,9 @@ title: "Research"
 ## Peer-reviewed Publications
 
 ### Digital Technologies and Information Manipulation in Authoritarian Politics
-Lu, Y., Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). [Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803). *American Journal of Political Science*
+Lu, Y., Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin. <i>American Journal of Political Science</i>. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803))
 
-Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. _Proceedings of the National Academy of Sciences_. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122))
+Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122))
 
 Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2023). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>. Online First in October 2023. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
 
