@@ -6,7 +6,7 @@ title: "Research"
 
 ## Peer-reviewed Publications
 
-### Digital Technologies and Information Manipulation in Authoritarian Politics
+### Digital Media and Technologies in Authoritarian Politics
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin. <i>American Journal of Political Science</i>. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803))
 
 Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122))
@@ -24,7 +24,7 @@ Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Us
 <b>Lu, Y.</b>, & Pan J. (2021). <b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity</b>. <i>Political Communication</i>. 38(1-2), 23-54. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
 
 
-### Multimodal Communication in AI-mediated Environments
+### Multimodal Communication Across Different Communication Contexts
 <b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 1-28. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
 
 Qian, S., <b>Lu, Y.</b>, & Peng, Y., Shen, C. & Xu, H. (2024). <b>Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram</b>. <i>Public Relations Review</i>, Online First in March 2024. ([DOI](https://drive.google.com/file/d/1Km2gyqiDD7XEG5BycAbxIMvumh92HoNV/view))
