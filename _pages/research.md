@@ -7,7 +7,7 @@ title: "Research"
 ## Peer-reviewed Publications
 
 ### Digital Media and Technologies in Authoritarian Politics
-<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin. <i>American Journal of Political Science</i>. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803))
+<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). **Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin**. <i>American Journal of Political Science</i>. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803))
 
 Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122))
 
