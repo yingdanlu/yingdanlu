@@ -12,7 +12,7 @@ I received my Ph.D. in [Communication at Stanford University](http://comm.stanfo
 
 ## Latest Publications
 
-- Lu, Y., Pan, J., Xu, X., & Xu, Y. (Forthcoming). [Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803). *American Journal of Political Science*
+- Lu, Y., Pan, J., Xu, X., & Xu, Y. (2025). [Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990). *American Journal of Political Science*
 - Hanley, H. W., Lu, Y., & Pan, J. (2025). [Across the firewall: Foreign media’s role in shaping Chinese social media narratives on the Russo-Ukrainian War](https://www.pnas.org/doi/full/10.1073/pnas.2420607122). *Proceedings of the National Academy of Sciences*, 122(1)
 - Lu, Y., & Peng, Y. (2024). [The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=). *Political Communication*. 1-28.
 - Qian, S., Lu, Y., Peng, Y., Shen, C., & Xu, H. (2024). [Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram](https://www.sciencedirect.com/science/article/abs/pii/S036381112400033X). *Public Relations Review*. 50(2), 102454.
