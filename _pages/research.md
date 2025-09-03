@@ -6,14 +6,12 @@ title: "Research"
 
 ## Peer-reviewed Publications
 
-### Digital Media and Technologies in Authoritarian Politics
-<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (2025). **Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin**. <i>American Journal of Political Science</i>. ([DOI](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990), [Replication](https://doi.org/10.7910/DVN/6LWKUY))
+### Authoritarian Information Control in the Digital Age
+<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (2025). **Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin**. <i>American Journal of Political Science</i>. Online First in May 2025. ([DOI](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990), [Replication](https://doi.org/10.7910/DVN/6LWKUY))
 
-Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122), [Replication](https://github.com/hanshanley/narrative-influence))
+Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>, 122(1), e2420607122. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122), [Replication](https://github.com/hanshanley/narrative-influence))
 
-Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2023). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>. Online First in October 2023. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
-
-Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China</b>. <i>The International Journal of Press/Politics</i>. [∗co-first author] ([DOI](https://journals.sagepub.com/doi/10.1177/19401612231153107))
+Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2024). <b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China</b>. <i>The International Journal of Press/Politics</i>, 29(3), 710-732. [∗co-first author] ([DOI](https://journals.sagepub.com/doi/10.1177/19401612231153107))
 
 <b>Lu, Y.</b>, Schaefer, J., Park, K., Joo, J., & Pan, J. (2022). <b>How Information Flows from the World to China</b>. <i>The International Journal of Press/Politics</i>. Online First in August 2022. ([DOI](https://journals.sagepub.com/doi/10.1177/19401612221117470), [Replication](https://doi.org/10.7910/DVN/7C7FEI))
 
@@ -24,7 +22,7 @@ Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Us
 <b>Lu, Y.</b>, & Pan J. (2021). <b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity</b>. <i>Political Communication</i>. 38(1-2), 23-54. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
 
 
-### Multimodal Communication Across Different Communication Contexts
+### Multimodal Communication and Misinformation
 <b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 1-28. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
 
 Qian, S., <b>Lu, Y.</b>, & Peng, Y., Shen, C. & Xu, H. (2024). <b>Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram</b>. <i>Public Relations Review</i>, Online First in March 2024. ([DOI](https://drive.google.com/file/d/1Km2gyqiDD7XEG5BycAbxIMvumh92HoNV/view))
@@ -39,6 +37,13 @@ Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized:
 
 Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2021). <b>Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them</b>. <i>Human-Computer Interaction</i>. 36(2), 150-201. ([DOI](https://www.tandfonline.com/doi/full/10.1080/07370024.2019.1578652). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html))
 
+
+### Advancing Computational Social Science Research
+Kim, S., <b>Lu Y.</b>, & Peng, Y. (2025). Unmasking Deception: How Computer Vision Could Empower Visual Journalism in Unveiling Visual Misinformation. In Thompson, T. J., and Dahmen N. S. (Eds.), The Routledge Companion to Visual Journalism. 39: 471-482. ([Book chapter here](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003391340-45/unmasking-deception-sang-jung-kim-yingdan-lu-yilang-peng))
+
+Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2024). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>. 17(2), 127-150. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
+
+Peng, Y., & Lu, Y. (2023). Computational Visual Analysis in Political Communication. In D. Lilleker & A. Veneti (eds.), Research Handbook on Visual Politics (pp. 42-54). Edward Elgar Publishing. ([Book chapter here]((https://www.elgaronline.com/edcollchap/book/9781800376939/book-part-9781800376939-10.xml))
 
 
 ## Dissertation
