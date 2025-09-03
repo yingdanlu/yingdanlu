@@ -5,18 +5,18 @@ title: "Teaching"
 ---
 
 ## Current Teaching at Northwestern University
-**COMM_ST 395: Digital Propaganda and Repression** (Undergraduate lecture)
+**COMM_ST 395: Digital Propaganda and Repression** (Undergraduate lecture)<br />
+Course Description: Digital media and technologies, often considered liberation technology, have increasingly been employed by governments and non-political entities for political propaganda and repression. This course will examine the practices and implications of propaganda and repression within the digital media landscape. We will explore the role of digital media and technologies in authoritarian regimes, the common strategies and applications of digital propaganda and repression, and consider how various actors implement these tactics, along with their consequences and global impacts. Through course readings, in-class discussions, and student-led projects, students will develop a critical understanding of the interplay between digital media, politics, and civil society.
 
-**MTS 525: Computational Communication Research** (Ph.D. seminar)
-
+**MTS 525: Computational Communication Research** (Ph.D. seminar)<br />
+Course Description: Digital technologies have prompted communication researchers to leverage massive digital datasets and computational tools to better understand the digital social environment. This research seminar offers an overview of key computational methods in social science research, with a focus on computational content analysis of large-scale digital data. We will explore main methods and techniques for digital data collection, machine learning, and the analysis of large-scale textual, visual, audio, and multimodal data. The course also examines current opportunities and challenges arising from recent computational breakthroughs, such as large language models (LLMs). Through engagement with key scholarship, hands-on programming tutorials, and research projects, students will gain a conceptual understanding of computational methods, receive practical training in integrating computational tools into their research, and develop a critical perspective on computational communication research.
 
 ## Previous Teaching
 
 **COMM 1: Introduction to Communication** (Undergraduate lecture; Teaching assistant for Jeff Hancock)
-Course Description: Digital media and technologies, often considered liberation technology, have increasingly been employed by governments and non-political entities for political propaganda and repression. This course will examine the practices and implications of propaganda and repression within the digital media landscape. We will explore the role of digital media and technologies in authoritarian regimes, the common strategies and applications of digital propaganda and repression, and consider how various actors implement these tactics, along with their consequences and global impacts. Through course readings, in-class discussions, and student-led projects, students will develop a critical understanding of the interplay between digital media, politics, and civil society.
+
 
 **COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Teaching assistant for Anna Gibson)
-Course Description: Digital technologies have prompted communication researchers to leverage massive digital datasets and computational tools to better understand the digital social environment. This research seminar offers an overview of key computational methods in social science research, with a focus on computational content analysis of large-scale digital data. We will explore main methods and techniques for digital data collection, machine learning, and the analysis of large-scale textual, visual, audio, and multimodal data. The course also examines current opportunities and challenges arising from recent computational breakthroughs, such as large language models (LLMs). Through engagement with key scholarship, hands-on programming tutorials, and research projects, students will gain a conceptual understanding of computational methods, receive practical training in integrating computational tools into their research, and develop a critical perspective on computational communication research.
 
 
 ## Teaching Resources
