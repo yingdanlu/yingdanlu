@@ -5,7 +5,7 @@ title: "Teaching"
 ---
 
 ## Current Teaching at Northwestern University
-**COMM_ST 395: Digital Propaganda and Repression** (Undergraduate lecture)<br />
+**COMM_ST 379 / POLI_SCI 390: Digital Propaganda and Repression** (Undergraduate lecture)<br />
 Digital media and technologies, often considered liberation technology, have increasingly been employed by governments and non-political entities for political propaganda and repression. This course will examine the practices and implications of propaganda and repression within the digital media landscape. We will explore the role of digital media and technologies in authoritarian regimes, the common strategies and applications of digital propaganda and repression, and consider how various actors implement these tactics, along with their consequences and global impacts. Through course readings, in-class discussions, and student-led projects, students will develop a critical understanding of the interplay between digital media, politics, and civil society.
 
 **MTS 525: Computational Communication Research** (Ph.D. seminar)<br />
