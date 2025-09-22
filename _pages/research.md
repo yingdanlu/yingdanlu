@@ -22,7 +22,7 @@ Chen, A., <b>Lu, Y.</b>, Chen, K., & Ng, A. (2024). <b>Pandemic Nationalism: Use
 <b>Lu, Y.</b>, & Pan J. (2021). <b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity</b>. <i>Political Communication</i>. 38(1-2), 23-54. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
 
 
-### Multimodal Communication in AI-mediated environments
+### Multimodal Communication in AI-mediated Environments
 Dahlke, R., Tu, F., Wang, Y.C., <b>Lu, Y.</b>, Engeda, B.W. & Hancock, J. (Forthcoming). Contextualizing Misinformation: A User-Centric Approach to Linguistic and Topical Patterns in News Consumption. The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2025). [Manuscript available upon request].
 
 <b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 41(4), 531-558. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
