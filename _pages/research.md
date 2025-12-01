@@ -25,7 +25,7 @@ Chen, A., <b>Lu, Y.</b>, Chen, K., & Ng, A. (2024). <b>Pandemic Nationalism: Use
 
 
 ### Multimodal Communication in AI-mediated Environments
-Dahlke, R., Tu, F., Wang, Y.C., <b>Lu, Y.</b>, Engeda, B.W. & Hancock, J. (2025). Contextualizing Misinformation: A User-Centric Approach to Linguistic and Topical Patterns in News Consumption. <i>Proceedings of the ACM on Human-Computer Interaction</i>, 9(7), 1-40. ([DOI](https://dl.acm.org/doi/pdf/10.1145/3757571))
+Dahlke, R., Tu, F., Wang, Y.C., <b>Lu, Y.</b>, Engeda, B.W. & Hancock, J. (2025). <b>Contextualizing Misinformation: A User-Centric Approach to Linguistic and Topical Patterns in News Consumption</b>. <i>Proceedings of the ACM on Human-Computer Interaction</i>, 9(7), 1-40. ([DOI](https://dl.acm.org/doi/pdf/10.1145/3757571))
 
 <b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 41(4), 531-558. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
 
