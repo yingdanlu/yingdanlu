@@ -47,5 +47,5 @@ Kim, S., <b>Lu, Y.</b>, & Peng, Y. (2025). <b>Unmasking Deception: How Computer 
 
 Chen, K., <b>Lu, Y.</b>, & Wang, Y. (2024). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>, 17(2), 127-150. ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
 
-Peng, Y., & Lu, Y. (2023). <b>Computational Visual Analysis in Political Communication</b>. In D. Lilleker & A. Veneti (eds.), <i>Research Handbook on Visual Politics</i>, 4: 42-54. Edward Elgar Publishing. ([Book chapter link](https://www.elgaronline.com/edcollchap/book/9781800376939/book-part-9781800376939-10.xml))
+Peng, Y., & <b>Lu, Y.</b> (2023). <b>Computational Visual Analysis in Political Communication</b>. In D. Lilleker & A. Veneti (eds.), <i>Research Handbook on Visual Politics</i>, 4: 42-54. Edward Elgar Publishing. ([Book chapter link](https://www.elgaronline.com/edcollchap/book/9781800376939/book-part-9781800376939-10.xml))
 
