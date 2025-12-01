@@ -11,8 +11,8 @@ As a computational social scientist, my past and ongoing research has focused on
 I received my Ph.D. in [Communication at Stanford University](http://comm.stanford.edu) in 2023, advised by Professor [Jennifer Pan](http://jenpan.com), where I also earned a Ph.D. minor in [Political Science](https://politicalscience.stanford.edu/), and a M.A. degree from [Center of East Asian Studies](https://ceas.stanford.edu/). I obtained my B.A. degree from the [School of Journalism and Communication](http://www.tsjc.tsinghua.edu.cn/) at Tsinghua University.
 
 ## Latest Publications
-
+- Lu, Y. (2025). [Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo](https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2584999). *Political Communication*
 - Lu, Y., Pan, J., Xu, X., & Xu, Y. (2025). [Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990). *American Journal of Political Science*
-- Hanley, H. W., Lu, Y., & Pan, J. (2025). [Across the firewall: Foreign media’s role in shaping Chinese social media narratives on the Russo-Ukrainian War](https://www.pnas.org/doi/full/10.1073/pnas.2420607122). *Proceedings of the National Academy of Sciences*, 122(1)
-- Lu, Y., & Peng, Y. (2024). [The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=). *Political Communication*. 1-28.
+- Hanley, H. W., Lu, Y., & Pan, J. (2025). [Across the firewall: Foreign media’s role in shaping Chinese social media narratives on the Russo-Ukrainian War](https://www.pnas.org/doi/full/10.1073/pnas.2420607122). *Proceedings of the National Academy of Sciences*, 122(1), e2420607122.
+- Lu, Y., & Peng, Y. (2024). [The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=). *Political Communication*. 41(4), 531-558.
 - Qian, S., Lu, Y., Peng, Y., Shen, C., & Xu, H. (2024). [Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram](https://www.sciencedirect.com/science/article/abs/pii/S036381112400033X). *Public Relations Review*. 50(2), 102454.
