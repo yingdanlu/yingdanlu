@@ -43,9 +43,9 @@ Reeves, B., Ram, N., Robinson, T. N., Cummings, J. J., Giles, L., Pan, J., Chiat
 
 
 ### Advancing Computational Social Science Research
-Kim, S., <b>Lu, Y.</b>, & Peng, Y. (2025). Unmasking Deception: How Computer Vision Could Empower Visual Journalism in Unveiling Visual Misinformation. In Thompson, T. J., and Dahmen N. S. (Eds.), <i>The Routledge Companion to Visual Journalism</i>, 39: 471-482. Routledge. ([Book chapter link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003391340-45/unmasking-deception-sang-jung-kim-yingdan-lu-yilang-peng))
+Kim, S., <b>Lu, Y.</b>, & Peng, Y. (2025). <b>Unmasking Deception: How Computer Vision Could Empower Visual Journalism in Unveiling Visual Misinformation</b>. In Thompson, T. J., and Dahmen N. S. (Eds.), <i>The Routledge Companion to Visual Journalism</i>, 39: 471-482. Routledge. ([Book chapter link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003391340-45/unmasking-deception-sang-jung-kim-yingdan-lu-yilang-peng))
 
 Chen, K., <b>Lu, Y.</b>, & Wang, Y. (2024). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>, 17(2), 127-150. ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
 
-Peng, Y., & Lu, Y. (2023). Computational Visual Analysis in Political Communication. In D. Lilleker & A. Veneti (eds.), <i>Research Handbook on Visual Politics</i>, 4: 42-54. Edward Elgar Publishing. ([Book chapter link](https://www.elgaronline.com/edcollchap/book/9781800376939/book-part-9781800376939-10.xml))
+Peng, Y., & Lu, Y. (2023). <b>Computational Visual Analysis in Political Communication</b>. In D. Lilleker & A. Veneti (eds.), <i>Research Handbook on Visual Politics</i>, 4: 42-54. Edward Elgar Publishing. ([Book chapter link](https://www.elgaronline.com/edcollchap/book/9781800376939/book-part-9781800376939-10.xml))
 
