@@ -7,6 +7,8 @@ title: "Research"
 ## Peer-reviewed Publications
 
 ### Authoritarian Information Control in the Digital Age
+<b>Lu, Y.</b> (2025). **Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo**. <i>Political Communication</i>. Online First in November 2025. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2584999), [Replication](https://osf.io/4nhpb/?view_only=f101908934b940d6b9e2d2f3a9534a5e))
+
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (2025). **Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin**. <i>American Journal of Political Science</i>. Online First in May 2025. ([DOI](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990), [Replication](https://doi.org/10.7910/DVN/6LWKUY))
 
 Hanley, H., <b>Lu, Y.</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>, 122(1), e2420607122. ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122), [Replication](https://github.com/hanshanley/narrative-influence))
@@ -47,8 +49,3 @@ Chen, K., <b>Lu, Y.</b>, & Wang, Y. (2024). <b>Unraveling China’s digital trac
 
 Peng, Y., & Lu, Y. (2023). Computational Visual Analysis in Political Communication. In D. Lilleker & A. Veneti (eds.), Research Handbook on Visual Politics (pp. 42-54). Edward Elgar Publishing. ([Book chapter link](https://www.elgaronline.com/edcollchap/book/9781800376939/book-part-9781800376939-10.xml))
 
-
-## Dissertation
-<b>Lu, Y. _Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in China._</b>
-
-<b>Abstract:</b> Established research on authoritarian information control has extensively examined the top-down dissemination of political propaganda and its impact on public attitudes and behaviors. This research introduces a novel theory, <i>performative propaganda engagement</i>, which focuses on individuals who engage with state propaganda in a performative manner to benefit an individual or a group they align with, rather than genuinely endorsing or promoting propaganda. Through mixed methods research approaches, this research empirically investigates performative propaganda engagement within the realm of Chinese online celebrity fandom, a rising cultural force on Chinese social media. The findings reveal that celebrity fans in China actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. I find that celebrity fans performatively engage with state propaganda through three mechanisms — celebrity mobilization, direct state mobilization, and algorithmic visibility manipulation. By exploring the manifestations of performative propaganda engagement, this research contributes to a deeper understanding of the downstream effects of authoritarian information control, contemporary fandom culture in China, the metrics-driven nature of social media ecosystem, and authoritarian resilience in the digital age. 
