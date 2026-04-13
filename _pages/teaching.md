@@ -11,12 +11,11 @@ Digital media and technologies, often considered liberation technology, have inc
 **MTS 525: Computational Communication Research** (Ph.D. seminar) [syllabus available upon request] <br />
 Digital technologies have prompted communication researchers to leverage massive digital datasets and computational tools to better understand the digital social environment. This research seminar offers an overview of key computational methods in social science research, with a focus on computational content analysis of large-scale digital data. We will explore main methods and techniques for digital data collection, machine learning, and the analysis of large-scale textual, visual, audio, and multimodal data. The course also examines current opportunities and challenges arising from recent computational breakthroughs, such as large language models (LLMs). Through engagement with key scholarship, hands-on programming tutorials, and research projects, students will gain a conceptual understanding of computational methods, receive practical training in integrating computational tools into their research, and develop a critical perspective on computational communication research.
 
-## Previous Teaching
+**COMM_ST 101-1: Communication in Context: Introduction** (Undergraduate lecture, required course) [syllabus available upon request] <br />
+This course is the first part of a two-quarter sequence required for communication studies majors and taken in the first year of study. This quarter, we will explore Communication Studies as a broad and interdisciplinary field, examining key domains, processes, and perspectives on understanding communication phenomena. Along the way, we will go over practical media and computing literacy skills that are fundamental to understanding communication in today’s media ecosystem.
 
-**COMM 1: Introduction to Communication** (Undergraduate lecture; Teaching assistant for Jeff Hancock)
-
-
-**COMM 106/206: Communication Research Methods** (Undergraduate/graduate seminar; Teaching assistant for Anna Gibson)
+**MTS 501: Introduction to Graduate Research** (Ph.D. seminar, required course) [syllabus available upon request] <br />
+The goal of this seminar is to introduce first-year students in the MTS and TSB Ph.D. programs to foundational and current research in these fields and key challenges involved in pursuing an impactful, responsible, and fulfilling research career. Throughout the quarter, students in the seminar will: (1) Engage with program faculty and former graduate students and their respective research. (2) Discuss and assess various aspects of research career practices and strategies. (3) Develop and apply your own effective research career development strategies. We will approach the course through a combination of readings, writings, in-class discussions, and guest visits from TSB and MTS program faculty as well as former graduate students.
 
 
 ## Teaching Resources
