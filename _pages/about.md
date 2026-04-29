@@ -12,6 +12,7 @@ I received my Ph.D. in [Communication at Stanford University](http://comm.stanfo
 
 ## Latest Publications
 - Lu, Y. (2026). [Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo](https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2584999). *Political Communication*, 43(1), 99-127.
+- Liu, X., Lu, Y., Peng, Q., Qian, S., Peng, Y., & Shen, C. (2026). [Seeing the Surreal: Mapping Surrealism in Photorealistic AI-Generated Images Using Large Language Models](https://www.aup-online.com/content/journals/10.5117/CCR2026.2.6.LIU?crawler=true&mimetype=application/pdf). *Computational Communication Research*, 8(2), 1.
 - Lu, Y., Pan, J., Xu, X., & Xu, Y. (2025). [Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990). *American Journal of Political Science*
 - Dahlke, R., Tu, F., Wang, Y. C., Lu, Y., Engeda, B. W., & Hancock, J. T. (2025). [Contextualizing Misinformation: A User-Centric Approach to Linguistic and Topical Patterns in News Consumption](https://dl.acm.org/doi/10.1145/3757571). *Proceedings of the ACM on Human-Computer Interaction (CSCW)*, 9(7), 1-40.
 - Hanley, H. W., Lu, Y., & Pan, J. (2025). [Across the firewall: Foreign media’s role in shaping Chinese social media narratives on the Russo-Ukrainian War](https://www.pnas.org/doi/full/10.1073/pnas.2420607122). *Proceedings of the National Academy of Sciences*, 122(1), e2420607122.
