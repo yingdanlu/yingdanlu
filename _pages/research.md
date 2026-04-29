@@ -25,7 +25,7 @@ Chen, A., <b>Lu, Y.</b>, Chen, K., & Ng, A. (2024). <b>Pandemic Nationalism: Use
 
 
 ### Multimodal Communication in AI-mediated Environments
-Liu, X., <b>Lu, Y.</b>, Peng, Q., Qian, S., Peng, Y., & Shen, C. (2026). <b>Seeing the Surreal: Mapping Surrealism in Photorealistic AI-Generated Images Using Large Language Models</b>. <i>Computational Communication Research</i>, 8(2), 1. ([DOI](https://www.aup-online.com/content/journals/10.5117/CCR2026.2.6.LIU?crawler=true&mimetype=application/pdf), [Replication](https://osf.io/mfwbr/overview?view_only=6ccb52f4c2864bb7a33eb67d25dfee05))
+Liu, X., <b>Lu, Y.</b>, Peng, Q., Qian, S., Peng, Y., & Shen, C. (2026). <b>Seeing the Surreal: Mapping Surrealism in Photorealistic AI-Generated Images Using Large Language Models</b>. <i>Computational Communication Research</i>, 8(2), 1. ([DOI](https://www.aup-online.com/content/journals/10.5117/CCR2026.2.6.LIU?crawler=true&mimetype=application/pdf), [Appendix](https://osf.io/mfwbr/files/ju6rs?view_only=6ccb52f4c2864bb7a33eb67d25dfee05), [Replication](https://osf.io/mfwbr/overview?view_only=6ccb52f4c2864bb7a33eb67d25dfee05))
 
 Dahlke, R., Tu, F., Wang, Y.C., <b>Lu, Y.</b>, Engeda, B.W. & Hancock, J. (2025). <b>Contextualizing Misinformation: A User-Centric Approach to Linguistic and Topical Patterns in News Consumption</b>. <i>Proceedings of the ACM on Human-Computer Interaction</i>, 9(7), 1-40. ([DOI](https://dl.acm.org/doi/pdf/10.1145/3757571))
 
