@@ -7,6 +7,8 @@ title: "Research"
 ## Peer-reviewed Publications
 
 ### Authoritarian Information Control in the Digital Age
+<b>Lu, Y.</b>, Liu, X., & Zhou, C. (2026). **Recommending the state: How social media algorithms curate state-created content in China**. <i>Journal of Communication</i>, jqag010. ([DOI](https://doi.org/10.1093/joc/jqag010), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HKH6BQ))
+
 <b>Lu, Y.</b> (2026). **Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo**. <i>Political Communication</i>, 43(1), 99-127. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2584999), [Replication](https://osf.io/4nhpb/overview?view_only=f101908934b940d6b9e2d2f3a9534a5e))
 
 <b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (2025). **Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin**. <i>American Journal of Political Science</i>. Online First in May 2025. ([DOI](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12990), [Replication](https://doi.org/10.7910/DVN/6LWKUY))
