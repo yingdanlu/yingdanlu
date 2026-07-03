@@ -47,6 +47,8 @@ Reeves, B., Ram, N., Robinson, T. N., Cummings, J. J., Giles, L., Pan, J., Chiat
 
 
 ### Advancing Computational Social Science Research
+Chen, K., & <b>Lu, Y.</b> (2026). <b>Video as data in computational analysis</b>. In Shen, L. (Ed.), <i>The Handbook of Quantitative Research Methods in Communication Science</i>. ([Book chapter link](https://www.degruyterbrill.com/document/doi/10.1515/9783111203577-016/html))
+
 Kim, S., <b>Lu, Y.</b>, & Peng, Y. (2025). <b>Unmasking Deception: How Computer Vision Could Empower Visual Journalism in Unveiling Visual Misinformation</b>. In Thompson, T. J., and Dahmen N. S. (Eds.), <i>The Routledge Companion to Visual Journalism</i>, 39: 471-482. Routledge. ([Book chapter link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003391340-45/unmasking-deception-sang-jung-kim-yingdan-lu-yilang-peng))
 
 Chen, K., <b>Lu, Y.</b>, & Wang, Y. (2024). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>, 17(2), 127-150. ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
